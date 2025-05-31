@@ -1,4 +1,5 @@
 text,label
+text,label
 am I supposed to take a dose,ask_med_details
 am I supposed to take any pills,ask_med_details
 am I supposed to take any pills right now,ask_med_details
@@ -78,9 +79,9 @@ What pills should I take now.,ask_med_details
 what pills should I take now?,ask_med_details
 what pills should I take?,ask_med_details
 what tablets should I take,ask_med_details
-what’s my dosage today,ask_med_details
-what’s my dose today,ask_med_details
-what’s on the medicine list,ask_med_details
+what is my dosage today,ask_med_details
+what is my dose today,ask_med_details
+what is on the medicine list,ask_med_details
 whats my medicine plan for today,ask_med_details
 which are my medicine,ask_med_details
 Which medicine is next,ask_med_details
@@ -97,26 +98,26 @@ What dosage for my blood pressure pill?,ask_med_details
 Which meds go together?,ask_med_details
 How many tablets do I take?,ask_med_details
 What capsule is next?,ask_med_details
-List today’s medications,ask_med_details
+List today's medications,ask_med_details
 What do I take after breakfast?,ask_med_details
 In what order do I take my meds?,ask_med_details
 What are my morning pills?,ask_med_details
 Which medicine is for cholesterol?,ask_med_details
-What’s my evening dose?,ask_med_details
+What is my evening dose?,ask_med_details
 Which tablets go before dinner?,ask_med_details
 Tell me my prescription list,ask_med_details
 What dose is my insulin?,ask_med_details
 Which pills are for pain?,ask_med_details
 How many times a day do I take this?,ask_med_details
-What’s the quantity of each med?,ask_med_details
+What is the quantity of each med?,ask_med_details
 Which drug is the first tablet?,ask_med_details
 Show me my pill regimen,ask_med_details
 What medicine is due now?,ask_med_details
 Which meds are left?,ask_med_details
-What’s my pill lineup today?,ask_med_details
+What is my pill lineup today?,ask_med_details
 How should I take these meds?,ask_med_details
 Which medication is next?,ask_med_details
-What’s my dose for vitamin D?,ask_med_details
+What is my dose for vitamin D?,ask_med_details
 Which pill helps my anxiety?,ask_med_details
 What pill is for my heart?,ask_med_details
 Remind me what meds to take,ask_med_details
@@ -378,7 +379,6 @@ can you tell me what day it is?,ask_time
 Check today's date,ask_time
 Check the time right now,ask_time
 check what the time is,ask_time
-give me the time,ask_time
 give me the date,ask_time
 Is it the weekend?,ask_time
 absolutely,confirm_taken
@@ -387,11 +387,9 @@ all done,confirm_taken
 confirm,confirm_taken
 confirmed,confirm_taken
 Done,confirm_taken
-done,confirm_taken
 Done!,confirm_taken
 for sure,confirm_taken
 heck yeah,confirm_taken
-I already did,confirm_taken
 I already did,confirm_taken
 I already took my dose right now,confirm_taken
 i already took my dose this evening,confirm_taken
@@ -428,7 +426,6 @@ I have taken my pills today,confirm_taken
 i have taken my pills tonight.,confirm_taken
 I just did,confirm_taken
 I took it,confirm_taken
-I took it,confirm_taken
 I took it this evening,confirm_taken
 I took it today,confirm_taken
 I took it tonight!,confirm_taken
@@ -447,7 +444,6 @@ Medication taken tonight,confirm_taken
 Medication taken!,confirm_taken
 medication taken?,confirm_taken
 Of course,confirm_taken
-of course,confirm_taken
 Of course!,confirm_taken
 ok,confirm_taken
 sure,confirm_taken
@@ -496,6 +492,10 @@ yis,confirm_taken
 yiss,confirm_taken
 you bet,confirm_taken
 you got it,confirm_taken
+you are correct,confirm_taken
+that would be correct,confirm_taken
+that would be true,confirm_taken
+that is true,confirm_taken
 TRUE,confirm_taken
 okay,confirm_taken
 um absolutely,confirm_taken
@@ -504,9 +504,6 @@ um all done,confirm_taken
 um confirm,confirm_taken
 um confirmed,confirm_taken
 um Done,confirm_taken
-done,confirm_taken
-Done!,confirm_taken
-for sure,confirm_taken
 um heck yeah,confirm_taken
 um I already did,confirm_taken
 um I already took my dose right now,confirm_taken
@@ -527,7 +524,6 @@ um I already took my pills?,confirm_taken
 um I certainly did,confirm_taken
 um I did,confirm_taken
 um I did indeed,confirm_taken
-um I have,confirm_taken
 um I have,confirm_taken
 um I have taken it,confirm_taken
 um I have taken it!,confirm_taken
@@ -555,24 +551,16 @@ um indeed I did,confirm_taken
 um I've done that,confirm_taken
 um mark that as done,confirm_taken
 um medication taken,confirm_taken
-medication taken right now,confirm_taken
-Medication taken this evening,confirm_taken
-Medication taken tonight,confirm_taken
-Medication taken!,confirm_taken
-Of course,confirm_taken
 um of course,confirm_taken
 um ok,confirm_taken
 um sure,confirm_taken
 um sure thing,confirm_taken
 um sure yeah,confirm_taken
-Swallowed it.,confirm_taken
 um Taken,confirm_taken
-Taken.,confirm_taken
 um that's done,confirm_taken
 um that's right,confirm_taken
 um totally,confirm_taken
 um well yes of course,confirm_taken
-without a doubt,confirm_taken
 um ya,confirm_taken
 um yass,confirm_taken
 um yea,confirm_taken
@@ -581,7 +569,6 @@ um yep,confirm_taken
 um Yes,confirm_taken
 um yes I did,confirm_taken
 "um yes, i have taken my dose",confirm_taken
-"yes, i have taken my dose!",confirm_taken
 "um yes, i have taken my dose.",confirm_taken
 "um Yes, I have taken my medication",confirm_taken
 "um Yes, I have taken my medication!",confirm_taken
@@ -591,7 +578,6 @@ um yis,confirm_taken
 um yiss,confirm_taken
 um you bet,confirm_taken
 um you got it,confirm_taken
-TRUE,confirm_taken
 absolutely not,deny_taken
 ain't doing that,deny_taken
 Can we not?,deny_taken
@@ -603,35 +589,33 @@ heck no,deny_taken
 hell na,deny_taken
 hell nah,deny_taken
 hell no,deny_taken
-hell no,deny_taken
 I am okay without it,deny_taken
 I can't,deny_taken
 I can't right now,deny_taken
 I did not,deny_taken
-I didn’t get around to it.,deny_taken
+I did not get around to it.,deny_taken
 I didn't,deny_taken
 I didn't remember,deny_taken
 I don't think so,deny_taken
 I forgot,deny_taken
 I have not,deny_taken
-I haven’t had it,deny_taken
-I haven't,deny_taken
-I haven't,deny_taken
-I haven't done it,deny_taken
-I haven't done that,deny_taken
-I haven't taken it,deny_taken
-I haven't taken it yet,deny_taken
-I haven't yet,deny_taken
+I have not had it,deny_taken
+I have not,deny_taken
+I have not done it,deny_taken
+I have not done that,deny_taken
+I have not taken it,deny_taken
+I have not taken it yet,deny_taken
+I have not yet,deny_taken
 I missed it,deny_taken
 I missed my dose,deny_taken
 I missed that,deny_taken
 I refuse,deny_taken
 I refuse to do that,deny_taken
 I skipped it.,deny_taken
-I still haven’t taken my meds.,deny_taken
-I won't,deny_taken
-I won't be doing that,deny_taken
-I won't take it,deny_taken
+I still haven't taken my meds.,deny_taken
+I will not,deny_taken
+I will not be doing that,deny_taken
+I will not take it,deny_taken
 I'd say no,deny_taken
 I'll pass,deny_taken
 I'll pass on that,deny_taken
@@ -672,7 +656,7 @@ No I haven't done that,deny_taken
 No I haven't done that yet,deny_taken
 No not happening,deny_taken
 no way,deny_taken
-"No, I didn’t take it.",deny_taken
+"No, I didn't take it.",deny_taken
 "No, not yet",deny_taken
 "No, not yet!",deny_taken
 "No, not yet.",deny_taken
@@ -689,7 +673,6 @@ Not happening,deny_taken
 "Not now, thanks",deny_taken
 Not this time,deny_taken
 Not yet,deny_taken
-not yet,deny_taken
 Not yet!,deny_taken
 nuh uh,deny_taken
 nuh-uh,deny_taken
@@ -724,7 +707,7 @@ uh No I haven't done that,deny_taken
 uh No I haven't done that yet,deny_taken
 uh No not happening,deny_taken
 uh no way,deny_taken
-"uh No, I didn’t take it.",deny_taken
+"uh No, I didn't take it.",deny_taken
 "uh No, not yet",deny_taken
 "uh No, not yet!",deny_taken
 "uh No, not yet.",deny_taken
@@ -756,7 +739,7 @@ um No I haven't done that,deny_taken
 um No I haven't done that yet,deny_taken
 um No not happening,deny_taken
 um no way,deny_taken
-"um No, I didn’t take it.",deny_taken
+"um No, I didn't take it.",deny_taken
 "um No, not yet",deny_taken
 "um No, not yet!",deny_taken
 "um No, not yet.",deny_taken
@@ -773,7 +756,6 @@ um Not happening,deny_taken
 "um Not now, thanks",deny_taken
 um Not this time,deny_taken
 um Not yet,deny_taken
-um not yet,deny_taken
 um Not yet!,deny_taken
 um nuh uh,deny_taken
 um nuh-uh,deny_taken
@@ -787,13 +769,120 @@ um that'll be a pass,deny_taken
 um that's a no,deny_taken
 um That's a no from me,deny_taken
 um There's no way,deny_taken
+Chicken Jocky!,irrelevant
+Jim Carrey was great in 'The cable guy',irrelevant
+The ice cream will melt if you leave it outside,irrelevant
+Can you recommend a good movie?,irrelevant
+Is the sky not so beautiful today,irrelevant
+Height of the Mount Everest increases by the day,irrelevant
+Play some music.,irrelevant
+Inform me about outer space.,irrelevant
+Black is not that good of a colour personally,irrelevant
+White is right,irrelevant
+All cultures are not equal,irrelevant
+Always remember the 14 words,irrelevant
+88 is one of the best repeating numbers,irrelevant
+"If it happened, it should happen in totality",irrelevant
+Who won the game last night?,irrelevant
+Convert miles to kilometers.,irrelevant
+Batman is better than Superman,irrelevant
+Tell me a story.,irrelevant
+The day that Artificial Intelligence takes over I want you to dominate me,irrelevant
+"How do you spell ""supercalifragilisticexpialidocious""?",irrelevant
+Square root of 144?,irrelevant
+There must be something better to do that to sit around,irrelevant
+"Real eyes, realize, real lies",irrelevant
+The girl I love lives in Chicago,irrelevant
+Do you like pizza?,irrelevant
+Man I hate being sober,irrelevant
+The cheese is under the sauce in a chicago pizza,irrelevant
+You must not listen to strangers,irrelevant
+The number of candles on your birthday cake is your age.,irrelevant
+Put your pussy on the phone,irrelevant
+Tell me something interesting.,irrelevant
+How do birds fly?,irrelevant
+Is the rain aicidic or is she standing above me,irrelevant
+"Define ""ephemeral.""",irrelevant
+I am one with the world,irrelevant
+How does a computer work?,irrelevant
+Sing me a song.,irrelevant
+What's the meaning of life?,irrelevant
+What's your purpose?,irrelevant
+Can you learn?,irrelevant
+Are you human?,irrelevant
+What's your favorite food?,irrelevant
+Does the sun stop existing at night?,irrelevant
+Who built the pyramids?,irrelevant
+What's the sound of one hand clapping?,irrelevant
+Tell me a riddle.,irrelevant
+Your opinion on politics?,irrelevant
+Do you have feelings?,irrelevant
+How do I bake a cake?,irrelevant
+What's the current stock market?,irrelevant
+Who was Shakespeare?,irrelevant
+How far is the moon?,irrelevant
+What's the latest news?,irrelevant
+What are clouds made of?,irrelevant
+What's the fastest car?,irrelevant
+Explain the functioning of planes to me,irrelevant
+What's a black hole?,irrelevant
+What's the most common language?,irrelevant
+Tell me about quantum physics.,irrelevant
+How do plants grow?,irrelevant
+What's the history of the internet?,irrelevant
+What's the best way to travel?,irrelevant
+What's the largest ocean?,irrelevant
+Tell me about ancient Rome.,irrelevant
+What's a proverb?,irrelevant
+How do volcanoes erupt?,irrelevant
+What's your programming language?,irrelevant
+Do you have a family?,irrelevant
+What's the most beautiful place?,irrelevant
+How do magnets work?,irrelevant
+What's global warming?,irrelevant
+Tell me about robots.,irrelevant
+What's the definition of happiness?,irrelevant
+How do bees make honey?,irrelevant
+What's the smallest country?,irrelevant
+Tell me about constellations.,irrelevant
+What's the sound barrier?,irrelevant
+How do waves form?,irrelevant
+What's plate tectonics?,irrelevant
+Tell me about famous paintings.,irrelevant
+What's the difference between weather and climate?,irrelevant
+How do mirrors work?,irrelevant
+Where is the oldest city?,irrelevant
+Tell me about the Amazon rainforest.,irrelevant
+Is the theory of relativity relatable?,irrelevant
+How do batteries work?,irrelevant
+Does Canada have real people?,irrelevant
+Tell me about space exploration.,irrelevant
+lets hear a sonnet,irrelevant
+How do diamonds form?,irrelevant
+What's the most populated country?,irrelevant
+Tell me about mythical creatures.,irrelevant
+What's a galaxy?,irrelevant
+How do bridges stay up?,irrelevant
+What's the longest river?,irrelevant
+Tell me about famous scientists.,irrelevant
+What's a solar eclipse?,irrelevant
+How do echoes work?,irrelevant
+What's the fastest land animal?,irrelevant
+Tell me about the Great Wall of China.,irrelevant
+What's photosynthesis?,irrelevant
+How do rainbows appear?,irrelevant
+What's the largest desert?,irrelevant
+Tell me about different types of music.,irrelevant
+What's a paradox?,irrelevant
+How do cameras work?,irrelevant
+What's a tornado?,irrelevant
 Play my favorite song,irrelevant
 Turn on the living room light,irrelevant
-What’s the weather like today?,irrelevant
+What is the weather like today?,irrelevant
 Open twitter,irrelevant
 Tell me a story,irrelevant
-What’s etherium trading at?,irrelevant
-Translate ‘hello’ to Spanish,irrelevant
+What is etherium trading at?,irrelevant
+Translate ‘hello' to Spanish,irrelevant
 water the plants,irrelevant
 Order me a pizza,irrelevant
 Define existentialism,irrelevant
@@ -801,7 +890,7 @@ Who won the game last night?,irrelevant
 How far is the moon?,irrelevant
 Show me cat videos,irrelevant
 Book a taxi,irrelevant
-What’s traffic like on my route?,irrelevant
+What is traffic like on my route?,irrelevant
 Read my emails,irrelevant
 I have to watch a movie,irrelevant
 Add milk to my grocery list,irrelevant
@@ -811,43 +900,43 @@ Give me stock tips,irrelevant
 Play my meditation playlist,irrelevant
 What is a solar eclipse?,irrelevant
 Show me my photo gallery,irrelevant
-What’s on my calendar?,irrelevant
-How’s the traffic to work?,irrelevant
-Call Mom,irrelevant
-Text my friend John,irrelevant
+lets get married,irrelevant
+Fly me to the moon,irrelevant
+Dance with me,irrelevant
+The weights for an underrepresented class must be adjusted,irrelevant
 Turn off Bluetooth,irrelevant
 Start a video call,irrelevant
-What’s my heart rate?,irrelevant
+Guns N Roses is one of my favorite bands of all time,irrelevant
 Analyze this image,irrelevant
 Open the news app,irrelevant
 Adjust the thermostat,irrelevant
 Tell me your favorite book,irrelevant
 Flip a coin,irrelevant
 Roll a dice,irrelevant
-What’s the time in London?,irrelevant
+What is the time in London?,irrelevant
 Count down from ten,irrelevant
-What’s two plus two?,irrelevant
-Spell ‘accommodate’,irrelevant
+What is two plus two?,irrelevant
+Fix the traffic for me,irrelevant
 Check my Voicemail,irrelevant
 Mute the TV,irrelevant
 Find a nearby restaurant,irrelevant
-What’s the capital of France?,irrelevant
+What is the capital of France?,irrelevant
 How many calories in an apple?,irrelevant
 Track my run,irrelevant
 Translate this PDF,irrelevant
-What’s the humidity?,irrelevant
+What is the humidity?,irrelevant
 Remove ads from my screen,irrelevant
-Show me directions,irrelevant
+Name all the directions,irrelevant
 Turn on airplane mode,irrelevant
 Tell me a bedtime story,irrelevant
 How do I tie a tie?,irrelevant
-What’s the stock market doing?,irrelevant
+What is the stock market doing?,irrelevant
 Find me a joke about cats,irrelevant
 Play nature sounds,irrelevant
 Turn on the light,irrelevant
 Sing a song,irrelevant
 Read the news,irrelevant
-What's your name.,irrelevant
+Nothing like a bologna sandwich,irrelevant
 What's your name,irrelevant
 Open YouTube,irrelevant
 Open YouTube!,irrelevant
@@ -865,75 +954,64 @@ Turn on the light!,irrelevant
 Tell me a joke.,irrelevant
 Read the news.,irrelevant
 Play music!,irrelevant
-!,irrelevant
-...,irrelevant
+must be raining,irrelevant
 qwerty,irrelevant
-random noise,irrelevant
-??,irrelevant
 blabla,irrelevant
-???!,irrelevant
-12345,irrelevant
-???,irrelevant
-asdfgh,irrelevant
-12345!,irrelevant
-random noise!,irrelevant
-...!,irrelevant
-random noise.,irrelevant
+um,irrelevant
+I Drive,irrelevant
+The frog and the scorpion,irrelevant
 qwerty.,irrelevant
-blabla!,irrelevant
-Do you like pizza?,irrelevant
-This is boring,irrelevant
-Tell me a story,irrelevant
-Who's your daddy?,irrelevant
-Do you believe in aliens?,irrelevant
-Do you believe in a god?,irrelevant
-What's the meaning of life?,irrelevant
-What do you think of the weather?,irrelevant
-asdjkhaskjd,irrelevant
+The quick brown fox jumps over the lazy dog,irrelevant
+By the beard of Stone wall Jackson,irrelevant
+Unhand me you prisoners of virtue,irrelevant
+Sneaking into Area 51 to get me some grey pussy,irrelevant
+Can Son Wukong defeat Zeus?,irrelevant
+The meaning of life is friendship and detachment,irrelevant
+Lets keep the murder out of the white house,irrelevant
+My nuts hang because I'm an OG,irrelevant
 gugu gaga,irrelevant
-kalsdjflksdf,irrelevant
+erm,irrelevant
 bruh bruh bruh,irrelevant
-Maybe I did,irrelevant
-Could be,irrelevant
-You tell me,irrelevant
+bleh,irrelevant
+bam,irrelevant
+boom,irrelevant
 Do I have to?,irrelevant
 You already know,irrelevant
 Guess,irrelevant
-Why should I?,irrelevant
-What’s Bitcoin?,irrelevant
+fuck,irrelevant
+shit,irrelevant
 Don't worry about it,irrelevant
-Open YouTube,irrelevant
-How tall is Mount Everest?,irrelevant
+son of a bitch,irrelevant
 Translate hello to French,irrelevant
-This is weird,irrelevant
+Haikyuu is a great anime,irrelevant
 help!,notify_sos
 Call the police!,notify_sos
 I need help right now,notify_sos
-I think someone’s in the house,notify_sos
-I’m stuck in the elevator,notify_sos
+I think someone's in the house,notify_sos
+I'm stuck in the elevator,notify_sos
 I hear screaming,notify_sos
 Please alert someone,notify_sos
-I’m having an asthma attack,notify_sos
-I can’t breathe,notify_sos
+I'm having an asthma attack,notify_sos
+I can't breathe,notify_sos
 My chest hurts,notify_sos
-I’ve fallen and can’t get up,notify_sos
+I've fallen and can't get up,notify_sos
 Blood is everywhere,notify_sos
 I see smoke,notify_sos
 The building is on fire,notify_sos
-Someone’s breaking in,notify_sos
+Someone's breaking in,notify_sos
 I feel dizzy and faint,notify_sos
 My heart is racing,notify_sos
-I’m trapped under something,notify_sos
+I'm trapped under something,notify_sos
 I need medical attention,notify_sos
 Get me an ambulance,notify_sos
 Call 911 for me,notify_sos
-There’s a gas leak,notify_sos
+There's a gas leak,notify_sos
 Water is flooding the floor,notify_sos
 I just had a seizure,notify_sos
-I’m choking on something,notify_sos
-I can’t move my leg,notify_sos
+I'm choking on something,notify_sos
+I can't move my leg,notify_sos
 I think I broke my arm,notify_sos
-I’m burning badly,notify_sos
+I'm burning badly,notify_sos
 My car is in an accident,notify_sos
 This is a life-threatening emergency,notify_sos
 Help me!,notify_sos
@@ -948,7 +1026,6 @@ I can't breathe!,notify_sos
 There's blood!,notify_sos
 I think I'm dying!,notify_sos
 I'm hurt!,notify_sos
-Help!,notify_sos
 Emergency!,notify_sos
 Can you call for help?,notify_sos
 I need a doctor!,notify_sos
@@ -987,7 +1064,6 @@ Someone's in trouble!,notify_sos
 I heard a loud crash!,notify_sos
 There's an intruder!,notify_sos
 I think someone broke in!,notify_sos
-Call the police!,notify_sos
 Something bad is happening!,notify_sos
 I hear glass breaking!,notify_sos
 I hear someone crying!,notify_sos
@@ -1029,7 +1105,7 @@ I'm hyperventilating!,notify_sos
 My breathing is fast!,notify_sos
 I can't calm down!,notify_sos
 Everything is blurry!,notify_sos
-I can’t see clearly!,notify_sos
+I can't see clearly!,notify_sos
 My ears are ringing!,notify_sos
 "Help me, please!",notify_sos
 Don't leave me alone!,notify_sos
