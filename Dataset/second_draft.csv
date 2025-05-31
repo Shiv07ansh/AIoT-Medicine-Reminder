@@ -1,0 +1,1398 @@
+text,label
+am I supposed to take a dose,ask_med_details
+am I supposed to take any pills,ask_med_details
+am I supposed to take any pills right now,ask_med_details
+am I supposed to take anything now,ask_med_details
+am I taking any pills at the moment,ask_med_details
+am I taking any tablets right now,ask_med_details
+am I taking anything right now,ask_med_details
+am I taking medicine right now,ask_med_details
+am I taking meds right now,ask_med_details
+am I to take anything right now,ask_med_details
+can you go over my medicine,ask_med_details
+can you guide me about my medication,ask_med_details
+can you help me with my medicines,ask_med_details
+can you list my medications,ask_med_details
+can you show me my current medicine,ask_med_details
+can you show me my dose,ask_med_details
+can you show me the medication list,ask_med_details
+can you show me which medicine to take,ask_med_details
+can you tell me about which medicines I need to take,ask_med_details
+can you tell me my meds,ask_med_details
+can you tell me which medicine i've already taken?,ask_med_details
+can you tell me which medicine i've taken already?,ask_med_details
+can you tell me which medicine i've taken?,ask_med_details
+can you tell me which medicines I took already,ask_med_details
+check my medicine,ask_med_details
+check what tablets I have to take,ask_med_details
+check what tablets I need to take,ask_med_details
+check what the dose is right now,ask_med_details
+check which medicines I have to take now,ask_med_details
+check which medicines I need,ask_med_details
+check which medicines I need to take,ask_med_details
+check which meds I have to take,ask_med_details
+check which meds I need,ask_med_details
+check which pills to take right now,ask_med_details
+check which tablets I need to take,ask_med_details
+could you tell me which medicines I need,ask_med_details
+do I need to take any medicine now,ask_med_details
+got any meds for me,ask_med_details
+I need help with my medicine,ask_med_details
+is there a medicine i need to take?,ask_med_details
+is there a medicine i should take?,ask_med_details
+let me know which medicines to take,ask_med_details
+list my medication,ask_med_details
+List my medicines,ask_med_details
+List my medicines!,ask_med_details
+List my medicines.,ask_med_details
+list my meds,ask_med_details
+may I know my medication,ask_med_details
+please inform me about my medicine,ask_med_details
+please inform me of my dose,ask_med_details
+please tell me my medicine routine,ask_med_details
+remind me which medicines I've taken,ask_med_details
+show me my medicine,ask_med_details
+tell me about my doses,ask_med_details
+tell me about the medicine,ask_med_details
+what pills should I take right now?,ask_med_details
+What am I supposed to take,ask_med_details
+What am I supposed to take!,ask_med_details
+What am I supposed to take.,ask_med_details
+what are my doses,ask_med_details
+what are my medicine,ask_med_details
+what is my next dose,ask_med_details
+what is my next dose look like,ask_med_details
+What medicine do I need to take,ask_med_details
+What medicine do I need to take!,ask_med_details
+what medicine do I need to take?,ask_med_details
+what medicine do i need?,ask_med_details
+what medicine do I take,ask_med_details
+what medicine is due now,ask_med_details
+what medicine should i take?,ask_med_details
+what meds do I have to take ,ask_med_details
+what meds do I need to take,ask_med_details
+what pills am I taking,ask_med_details
+what pills do I have,ask_med_details
+What pills should I take now,ask_med_details
+What pills should I take now.,ask_med_details
+what pills should I take now?,ask_med_details
+what pills should I take?,ask_med_details
+what tablets should I take,ask_med_details
+what is my dosage for the day,ask_med_details
+what is my dose today,ask_med_details
+what is on the medicine list,ask_med_details
+medicine plan,ask_med_details
+tell me my medicine plan,ask_med_details
+Is there a medicine plan I have to follow,ask_med_details
+whats my medicine plan for the day,ask_med_details
+which are my medicine,ask_med_details
+Which medicine is next,ask_med_details
+Which medicine is next.,ask_med_details
+Which meds do I take all day,ask_med_details
+which of the medicines do I have to take right now?,ask_med_details
+which pills should I take now?,ask_med_details
+would you mind listing my medications,ask_med_details
+list my meds,ask_med_details
+listing my medicaions,ask_med_details
+please listing my medications,ask_med_details
+i need you to list my medications,ask_med_details
+list medication,ask_med_details
+medication list,ask_med_details
+go ahead and list medications,ask_med_details
+med list,ask_med_details
+list of medication to take,ask_med_details
+medication list,ask_med_details
+medicine list,ask_med_details
+list the medicine,ask_med_details
+tell me the list of medicines,ask_med_details
+what is the list of medicine,ask_med_details
+you know the medicines i took?,ask_med_details
+Which pills do I need now?,ask_med_details
+What medicines should I take?,ask_med_details
+Tell me my dose schedule,ask_med_details
+What dosage for my blood pressure pill?,ask_med_details
+Which meds go together?,ask_med_details
+How many tablets do I take?,ask_med_details
+What capsule is next?,ask_med_details
+List today's medications,ask_med_details
+What do I take after breakfast?,ask_med_details
+In what order do I take my meds?,ask_med_details
+What are my morning pills?,ask_med_details
+Which medicine is for cholesterol?,ask_med_details
+What is my evening dose?,ask_med_details
+Which tablets go before dinner?,ask_med_details
+Tell me my prescription list,ask_med_details
+What dose is my insulin?,ask_med_details
+Which pills are for pain?,ask_med_details
+How many times a day do I take this?,ask_med_details
+What is the quantity of each med?,ask_med_details
+Which drug is the first tablet?,ask_med_details
+Show me my pill regimen,ask_med_details
+What medicine is due now?,ask_med_details
+Which meds are left?,ask_med_details
+What is my pill lineup today?,ask_med_details
+How should I take these meds?,ask_med_details
+Which medication is next?,ask_med_details
+What is my dose for vitamin D?,ask_med_details
+Which pill helps my anxiety?,ask_med_details
+What pill is for my heart?,ask_med_details
+Remind me what meds to take,ask_med_details
+Next medicine time,ask_schedule
+When do I take my next medicine,ask_schedule
+When is my next dose,ask_schedule
+medicine schedule,ask_schedule
+medicine schedule,ask_schedule
+medicine schedule,ask_schedule
+what does my medicine shedule look like,ask_schedule
+tell me my medicine schedule,ask_schedule
+medicine schedule,ask_schedule
+lets go over my medicine schedule,ask_schedule
+tell me my medicine schedule,ask_schedule
+discuss my medicine shcedule,ask_schedule
+My medicine schedule today,ask_schedule
+Tell me today's schedule,ask_schedule
+When is my next dose.,ask_schedule
+What time is my next pill,ask_schedule
+My medicine schedule today.,ask_schedule
+When do I take my next medicine.,ask_schedule
+Next medicine time!,ask_schedule
+Next medicine time.,ask_schedule
+What time is my next pill.,ask_schedule
+What time is my next pill!,ask_schedule
+show me the alarms i set,ask_schedule
+do i have any alarms,ask_schedule
+show alarms,ask_schedule
+do i have any alarms set for today,ask_schedule
+hey google tell me what alarms are set for me,ask_schedule
+what are my alarms,ask_schedule
+list all of my upcoming alarms,ask_schedule
+alarm status,ask_schedule
+what's my next alarm,ask_schedule
+please check alarms,ask_schedule
+please tell me my alarms,ask_schedule
+i need to set an alarm how many do i have set,ask_schedule
+what days are my alarms set for,ask_schedule
+can you tell me what alarms i have set,ask_schedule
+check if any alarm is there after five am,ask_schedule
+is there any alarm after five am,ask_schedule
+when is my alarm set for,ask_schedule
+alarms,ask_schedule
+what alarms do i have set for today,ask_schedule
+how many alarms do i have,ask_schedule
+what time will my alarm go off today,ask_schedule
+did you set the alarm for five am,ask_schedule
+what alarms are set in the morning,ask_schedule
+what alarms do i have scheduled for tomorrow,ask_schedule
+alexa provide me the alarm times you have set,ask_schedule
+are there any alarms set,ask_schedule
+what alarms do you have set,ask_schedule
+what alarms are set in the house,ask_schedule
+did i set my house alarm,ask_schedule
+what home alarms have been set,ask_schedule
+would you please check to see if i've set my alarm for tomorrow morning,ask_schedule
+what alarms do i have set,ask_schedule
+what alarms do i have,ask_schedule
+let me see my alarms,ask_schedule
+what alarms do i got,ask_schedule
+read me my alarms,ask_schedule
+how many alarms have i set,ask_schedule
+may i know the about alarm you set,ask_schedule
+what alarms have been set for me,ask_schedule
+do i have alarms set for today,ask_schedule
+do i have alarms set,ask_schedule
+what time are my alarms,ask_schedule
+list all the alarms,ask_schedule
+review the alarms i have,ask_schedule
+tell me time of alarm you set,ask_schedule
+let me know about the alarms you set,ask_schedule
+do i have alarms set before six in the morning,ask_schedule
+what time are my alarms set for,ask_schedule
+what time is alarm set for,ask_schedule
+confirm alarm for tomorrow morning,ask_schedule
+when will my alarm go off in the morning,ask_schedule
+what alarms have i set for tomorrow,ask_schedule
+what time is the alarm set for tomorrow,ask_schedule
+what time is the alarm set for tomorrow morning,ask_schedule
+is the alarm set for tomorrow morning,ask_schedule
+check whether i have set any alarms for tomorrow morning,ask_schedule
+olly show me my alarms,ask_schedule
+show me my alarms,ask_schedule
+do i have any alarms set,ask_schedule
+what time i am waking up tomorrow,ask_schedule
+what time is my alarm set for,ask_schedule
+show me all scheduled alarms,ask_schedule
+what alarms will wake me up tomorrow,ask_schedule
+would like to know the alarm you sent,ask_schedule
+how many alarms are currently set,ask_schedule
+checkout today alarm of meeting,ask_schedule
+are there any alarms set right now,ask_schedule
+what alarms are set right now,ask_schedule
+confirm the alarm time,ask_schedule
+please list active alarms,ask_schedule
+check if i have set any alarm for morning,ask_schedule
+confirm i have set an alarm for six am,ask_schedule
+my alarms,ask_schedule
+are there any alarms set what are they,ask_schedule
+what are the next three alarms set to go off,ask_schedule
+list all set alarms,ask_schedule
+what alarms are set for this week,ask_schedule
+have i got any alarms set,ask_schedule
+what alarms are on right now,ask_schedule
+which alarms do i have,ask_schedule
+list alarms,ask_schedule
+please read me my alarms,ask_schedule
+how many alarms are listed,ask_schedule
+is the alarm to the backdoor set and ready to go,ask_schedule
+is there any alarm active,ask_schedule
+do i have any alarms set for tomorrow,ask_schedule
+what alarms are currently set,ask_schedule
+show me the alarms that are set,ask_schedule
+show me all of my active alarms,ask_schedule
+how many alarms are set,ask_schedule
+are there any alarms for today,ask_schedule
+if there any alarm is set then let me know,ask_schedule
+have i set any alarm for today,ask_schedule
+show me the list of alarms,ask_schedule
+what's the alarm situation for tomorrow,ask_schedule
+just see for me the alarms that you have set today morning,ask_schedule
+then tap ok,ask_schedule
+just to confirm you set the alarm to go off at eight hundred,ask_schedule
+what time is my alarm set for tomorrow morning,ask_schedule
+tell me if my alarm is set for the morning,ask_schedule
+which alarms are set in the phone,ask_schedule
+is there an alarm at four am,ask_schedule
+let me know the alarm time,ask_schedule
+what alarm time had you set,ask_schedule
+is my wake up alarm set a six am,ask_schedule
+do i currently have any alarms set,ask_schedule
+let me know about any alarms set today,ask_schedule
+remind me about my alarms today,ask_schedule
+is my work alarm set for tomorrow,ask_schedule
+do i have an alarm set for morning flight,ask_schedule
+when is the next alarm,ask_schedule
+what alarms do i have set for thursday,ask_schedule
+could you tell me about the alerts i have set,ask_schedule
+review set alarms,ask_schedule
+do i have an alarm set for today,ask_schedule
+what time will my alarm wake me up,ask_schedule
+give me the alarm times for the next two days,ask_schedule
+have i set any alarms in the morning,ask_schedule
+at what time is my alarm set,ask_schedule
+can you tell me about the alarm called bed,ask_schedule
+are there any alarms,ask_schedule
+what's the description for the alarm at eleven am,ask_schedule
+what's my next scheduled alarm,ask_schedule
+list all of my alarms,ask_schedule
+please tell me about upcoming alarms,ask_schedule
+what alarms are coming up,ask_schedule
+show me the alarms i've set,ask_schedule
+What time is it,ask_time
+Time please.,ask_time
+Tell me the time.,ask_time
+Do you know the time,ask_time
+Can you tell me the time,ask_time
+What time is it!,ask_time
+Tell me the time,ask_time
+Current time please,ask_time
+Time please,ask_time
+Do you know the time!,ask_time
+Current time please!,ask_time
+Current time please.,ask_time
+What time is it.,ask_time
+Can you tell me the time.,ask_time
+Time please!,ask_time
+give me the time,ask_time
+what time is it tomorrow,ask_time
+Do you know what time it is?,ask_time
+Can you tell me the time?,ask_time
+what is the current date today,ask_time
+what time is it,ask_time
+what time is it day before tomorrow,ask_time
+what time is it in new york city,ask_time
+Do you know the time?,ask_time
+what will be the time now in washington,ask_time
+what day of the week is the first of march,ask_time
+show me boston's current time,ask_time
+what week of the year does the summer season start,ask_time
+Time,ask_time
+what is the day on twenty third march,ask_time
+what time is it in denver,ask_time
+how time is it,ask_time
+what is the current day month and year,ask_time
+what is the time,ask_time
+what time is it in singapore,ask_time
+what is today's date,ask_time
+what is the month day and year,ask_time
+What is the time?,ask_time
+Tell me what time it is?,ask_time
+give me the time in phoenix az,ask_time
+what time is it now,ask_time
+what's the time in new york,ask_time
+what day of the week is june twenty seventh on this year,ask_time
+give me date,ask_time
+give me the time,ask_time
+I need to know the time,ask_time
+what day of the week does the fifteenth of march fall on,ask_time
+what is the current time right now,ask_time
+on what date is easter this year,ask_time
+what time is it in karachi right now,ask_time
+what time is it in this city,ask_time
+is there a national holiday on fifth december,ask_time
+twenty second april day,ask_time
+tell me what time it is right now,ask_time
+show me the time,ask_time
+what day of the week does christmas fall on this year,ask_time
+what is the time for the eastern time zone,ask_time
+what's the time in this time zone,ask_time
+what is the current time in california,ask_time
+what day of the week is the twenty second march,ask_time
+what is the current date,ask_time
+what time is it day after tomorrow,ask_time
+date and time,ask_time
+what date is easter sunday this year,ask_time
+please give me today's date,ask_time
+what time is it on the east coast of the united states,ask_time
+tell me current time,ask_time
+what is the time in milwaukee,ask_time
+please tell me the current date,ask_time
+please show me today's date,ask_time
+what is the time in canada now,ask_time
+what day is the fifteenth,ask_time
+what is the date for next tuesday,ask_time
+what is the day today,ask_time
+what day is it on fifth december,ask_time
+which week is twenty third,ask_time
+is there christmas on twenty second,ask_time
+what is the date today,ask_time
+hello what time it is now,ask_time
+could you please tell me what time is in singapore,ask_time
+what's the time for neighboring city,ask_time
+what time i sit in china right now,ask_time
+march tenth lands on what day of the week,ask_time
+what is the time now,ask_time
+what is the current time in london,ask_time
+what is the time in beijing,ask_time
+is it noon?,ask_time
+what day is it day after tomorrow,ask_time
+what is the day,ask_time
+what is the day of the week,ask_time
+tomorrow,ask_time
+day after tomorrow,ask_time
+what is the date,ask_time
+time,ask_time
+day before tomorrow,ask_time
+what day is it today,ask_time
+date,ask_time
+what day is it day before tomorrow,ask_time
+what day is it tomorrow,ask_time
+what day is it,ask_time
+Time check,ask_time
+can you tell me the time please,ask_time
+could you please tell me what time it is,ask_time
+could you tell me what time it is right now,ask_time
+how late is it?,ask_time
+What's the hour?,ask_time
+what's on the clock?,ask_time
+what does the clock say?,ask_time
+Tell me what time it is,ask_time
+Time right now,ask_time
+Update me on the time,ask_time
+can I get the time?,ask_time
+what day is it?,ask_time
+can you tell me what day it is?,ask_time
+Check today's date,ask_time
+Check the time right now,ask_time
+check what the time is,ask_time
+give me the date,ask_time
+Is it the weekend?,ask_time
+absolutely,confirm_taken
+affirmitive,confirm_taken
+all done,confirm_taken
+confirm,confirm_taken
+confirmed,confirm_taken
+Done,confirm_taken
+Done!,confirm_taken
+for sure,confirm_taken
+heck yeah,confirm_taken
+I already did,confirm_taken
+I already took my dose right now,confirm_taken
+i already took my dose this evening,confirm_taken
+I already took my dose this evening!,confirm_taken
+i already took my dose this evening.,confirm_taken
+i already took my dose.,confirm_taken
+i already took my medication,confirm_taken
+i already took my medication this morning.,confirm_taken
+i already took my medication!,confirm_taken
+i already took my medicine,confirm_taken
+i already took my medicine tonight,confirm_taken
+I already took my medicine.,confirm_taken
+I already took my meds,confirm_taken
+I already took my pills,confirm_taken
+i already took my pills right now,confirm_taken
+I already took my pills?,confirm_taken
+I certainly did,confirm_taken
+I did,confirm_taken
+I did indeed,confirm_taken
+I have,confirm_taken
+I have taken it,confirm_taken
+i have taken my dose right now,confirm_taken
+i have taken my dose!,confirm_taken
+I have taken my dose.,confirm_taken
+I have taken my medication,confirm_taken
+I have taken my medication.,confirm_taken
+i have taken my medicine,confirm_taken
+i have taken my medicine this afternoon,confirm_taken
+i have taken my meds,confirm_taken
+i have taken my meds today!,confirm_taken
+I have taken my meds.,confirm_taken
+i have taken my pills,confirm_taken
+I have taken my pills true,confirm_taken
+I have taken my pills I did,confirm_taken
+I just did,confirm_taken
+I took it,confirm_taken
+I took it this evening,confirm_taken
+I took them,confirm_taken
+I took it true,confirm_taken
+i took it!,confirm_taken
+I took my medicine,confirm_taken
+I took my medicine!,confirm_taken
+indeed,confirm_taken
+indeed I did,confirm_taken
+I've done that,confirm_taken
+mark that as done,confirm_taken
+medication taken,confirm_taken
+medication taken right now,confirm_taken
+Medication taken right now?,confirm_taken
+Medication taken this evening,confirm_taken
+Medication taken tonight,confirm_taken
+Medication taken!,confirm_taken
+medication taken?,confirm_taken
+Of course,confirm_taken
+Of course!,confirm_taken
+ok,confirm_taken
+sure,confirm_taken
+sure thing,confirm_taken
+sure yeah,confirm_taken
+Swallowed it,confirm_taken
+Swallowed it.,confirm_taken
+Taken,confirm_taken
+Taken!,confirm_taken
+Taken.,confirm_taken
+that's done,confirm_taken
+that's right,confirm_taken
+totally,confirm_taken
+well yes of course,confirm_taken
+without a doubt,confirm_taken
+ya,confirm_taken
+yass,confirm_taken
+yea,confirm_taken
+yeah,confirm_taken
+yep,confirm_taken
+Yes,confirm_taken
+yes I did,confirm_taken
+Yes!,confirm_taken
+"yes, i have taken my dose",confirm_taken
+"yes, i have taken my dose!",confirm_taken
+"yes, i have taken my dose.",confirm_taken
+"Yes, I have taken my medication",confirm_taken
+"yes, i have taken my medication this afternoon",confirm_taken
+"Yes, I have taken my medication!",confirm_taken
+"Yes, I have taken my medicine",confirm_taken
+"yes, i have taken my medicine right now",confirm_taken
+"yes, i have taken my medicine!",confirm_taken
+"yes, i have taken my meds",confirm_taken
+"yes, i have taken my meds this afternoon!",confirm_taken
+"yes, i have taken my meds this afternoon.",confirm_taken
+"Yes, I have taken my meds truly",confirm_taken
+"yes, i have taken my meds tonight",confirm_taken
+"Yes, I have taken my pills",confirm_taken
+"Yes, I have taken my pills right now",confirm_taken
+"Yes, I took it",confirm_taken
+"Yes, I took it.",confirm_taken
+"yes, it's done",confirm_taken
+"yes, it's taken",confirm_taken
+yessir,confirm_taken
+yis,confirm_taken
+yiss,confirm_taken
+you bet,confirm_taken
+you got it,confirm_taken
+you are correct,confirm_taken
+that would be correct,confirm_taken
+that would be true,confirm_taken
+that is true,confirm_taken
+TRUE,confirm_taken
+okay,confirm_taken
+um absolutely,confirm_taken
+um affirmitive,confirm_taken
+um all done,confirm_taken
+um confirm,confirm_taken
+um confirmed,confirm_taken
+um Done,confirm_taken
+um heck yeah,confirm_taken
+um I already did,confirm_taken
+um I already took my dose right now,confirm_taken
+um i already took my dose this evening,confirm_taken
+um I already took my dose this evening!,confirm_taken
+um i already took my dose this evening.,confirm_taken
+um i already took my dose.,confirm_taken
+um i already took my medication,confirm_taken
+um i already took my medication this morning.,confirm_taken
+um i already took my medication!,confirm_taken
+um i already took my medicine,confirm_taken
+um i already took my medicine tonight,confirm_taken
+um I already took my medicine.,confirm_taken
+um I already took my meds,confirm_taken
+um I already took my pills,confirm_taken
+um i already took my pills right now,confirm_taken
+um I already took my pills?,confirm_taken
+um I certainly did,confirm_taken
+um I did,confirm_taken
+um I did indeed,confirm_taken
+um I have,confirm_taken
+um I have taken it,confirm_taken
+um I have taken it!,confirm_taken
+um i have taken my dose right now,confirm_taken
+um i have taken my dose!,confirm_taken
+um I have taken my dose.,confirm_taken
+um i have taken my dose?,confirm_taken
+um I have taken my medication,confirm_taken
+um i have taken my medicine this afternoon,confirm_taken
+um I have taken my medicine this morning,confirm_taken
+um i have taken my meds,confirm_taken
+um i have taken my meds it is true,confirm_taken
+um I have taken my meds.,confirm_taken
+um i have taken my pills,confirm_taken
+um I have taken my pills true,confirm_taken
+um i have taken my pills tonight.,confirm_taken
+um I just did,confirm_taken
+um I took it,confirm_taken
+um I took it this evening,confirm_taken
+um i took it!,confirm_taken
+um I took my medicine,confirm_taken
+um I took my medicine!,confirm_taken
+um indeed,confirm_taken
+um indeed I did,confirm_taken
+um I've done that,confirm_taken
+um mark that as done,confirm_taken
+um medication taken,confirm_taken
+um of course,confirm_taken
+um ok,confirm_taken
+um sure,confirm_taken
+um sure thing,confirm_taken
+um sure yeah,confirm_taken
+um Taken,confirm_taken
+um that's done,confirm_taken
+um that's right,confirm_taken
+um totally,confirm_taken
+um well yes of course,confirm_taken
+um ya,confirm_taken
+um yass,confirm_taken
+um yea,confirm_taken
+um yeah,confirm_taken
+um yep,confirm_taken
+um Yes,confirm_taken
+um yes I did,confirm_taken
+"um yes, i have taken my dose",confirm_taken
+"um yes, i have taken my dose.",confirm_taken
+"um Yes, I have taken my medication",confirm_taken
+"um Yes, I have taken my medication!",confirm_taken
+"um Yes, I have taken my medicine",confirm_taken
+um yessir,confirm_taken
+um yis,confirm_taken
+um yiss,confirm_taken
+um you bet,confirm_taken
+um you got it,confirm_taken
+absolutely not,deny_taken
+ain't doing that,deny_taken
+Can we not?,deny_taken
+count me out,deny_taken
+definitely not,deny_taken
+Doesn't work for me,deny_taken
+heck nah,deny_taken
+heck no,deny_taken
+hell na,deny_taken
+hell nah,deny_taken
+hell no,deny_taken
+I am not doing that,deny_taken
+I can't,deny_taken
+I can't right now,deny_taken
+I did not,deny_taken
+I did not get around to it.,deny_taken
+I didn't,deny_taken
+I did not think so,deny_taken
+I did not do it,deny_taken
+I didn't remember to,deny_taken
+I don't think I did,deny_taken
+think not,deny_taken
+I think not,deny_taken
+I didn't remember,deny_taken
+I don't think so,deny_taken
+I forgot,deny_taken
+I have not,deny_taken
+I have not had it,deny_taken
+I have not,deny_taken
+I have not done it,deny_taken
+I have not done that,deny_taken
+I have not taken it,deny_taken
+I have not taken it yet,deny_taken
+I have not yet,deny_taken
+I missed it,deny_taken
+I missed my dose,deny_taken
+I missed that,deny_taken
+I refuse,deny_taken
+I refuse to do that,deny_taken
+I skipped it.,deny_taken
+I still haven't taken my meds.,deny_taken
+I will not,deny_taken
+I will not be doing that,deny_taken
+I will not take it,deny_taken
+I'd say no,deny_taken
+I'll not,deny_taken
+I'll not do that,deny_taken
+Nah I am not going to,deny_taken
+I'm holding off,deny_taken
+I'm not doing that,deny_taken
+I'm not going to,deny_taken
+I'm not going to do that,deny_taken
+I'm not going to take it,deny_taken
+I'm not gonna take it,deny_taken
+I'm not ready,deny_taken
+I'm not taking it,deny_taken
+I'm not up for that,deny_taken
+I don t,deny_taken
+It's pending,deny_taken
+It's still pending,deny_taken
+I've decided not to,deny_taken
+na,deny_taken
+Na uh,deny_taken
+nada,deny_taken
+Nah,deny_taken
+Nah!,deny_taken
+"Nah, I forgot.",deny_taken
+Nah.,deny_taken
+naw,deny_taken
+nay,deny_taken
+Negative,deny_taken
+Negative.,deny_taken
+no can do,deny_taken
+no chance,deny_taken
+no fucking way,deny_taken
+No I did not,deny_taken
+No I didn't,deny_taken
+No I have not,deny_taken
+No I haven't,deny_taken
+No I haven't done it yet,deny_taken
+No I haven't done that,deny_taken
+No I haven't done that yet,deny_taken
+No not happening,deny_taken
+no way,deny_taken
+"No, I didn't take it.",deny_taken
+"No, not yet",deny_taken
+"No, not yet!",deny_taken
+"No, not yet.",deny_taken
+nooo,deny_taken
+Nope,deny_taken
+nope nope,deny_taken
+Nope.,deny_taken
+not,deny_taken
+not at all,deny_taken
+Not at all.,deny_taken
+Not done,deny_taken
+not even close,deny_taken
+Not happening,deny_taken
+"Not now, thanks",deny_taken
+Not this time,deny_taken
+Not yet,deny_taken
+Not yet!,deny_taken
+nuh uh,deny_taken
+nuh-uh,deny_taken
+out of the question,deny_taken
+not doing,deny_taken
+Still haven't,deny_taken
+Still haven't.,deny_taken
+that is a no,deny_taken
+that'll be a no,deny_taken
+no way,deny_taken
+that's a no,deny_taken
+That's a no from me,deny_taken
+There's no way,deny_taken
+uh I ain't doing that,deny_taken
+uh I'm not,deny_taken
+uh nah,deny_taken
+uh uh,deny_taken
+"uh, no",deny_taken
+uh-uh,deny_taken
+"um, I haven't",deny_taken
+uh Negative,deny_taken
+uh Negative.,deny_taken
+uh no can do,deny_taken
+uh no chance,deny_taken
+uh no fucking way,deny_taken
+uh No I did not,deny_taken
+uh No I didn't,deny_taken
+uh No I have not,deny_taken
+uh No I haven't,deny_taken
+uh No I haven't done it yet,deny_taken
+uh No I haven't done that,deny_taken
+uh No I haven't done that yet,deny_taken
+uh No not happening,deny_taken
+uh no way,deny_taken
+"uh No, I didn't take it.",deny_taken
+"uh No, not yet",deny_taken
+"uh No, not yet!",deny_taken
+"uh No, not yet.",deny_taken
+uh nooo,deny_taken
+uh Nope,deny_taken
+uh nope nope,deny_taken
+uh Nope.,deny_taken
+uh not,deny_taken
+uh not at all,deny_taken
+uh Not at all.,deny_taken
+uh Not done,deny_taken
+uh not even close,deny_taken
+um Nah!,deny_taken
+"um Nah, I forgot.",deny_taken
+um Nah.,deny_taken
+um naw,deny_taken
+um nay,deny_taken
+um Negative,deny_taken
+um Negative.,deny_taken
+um no can do,deny_taken
+um no chance,deny_taken
+um no fucking way,deny_taken
+um No I did not,deny_taken
+um No I didn't,deny_taken
+um No I have not,deny_taken
+um No I haven't,deny_taken
+um No I haven't done it yet,deny_taken
+um No I haven't done that,deny_taken
+um No I haven't done that yet,deny_taken
+um No not happening,deny_taken
+um no way,deny_taken
+"um No, I didn't take it.",deny_taken
+"um No, not yet",deny_taken
+"um No, not yet!",deny_taken
+"um No, not yet.",deny_taken
+um nooo,deny_taken
+um Nope,deny_taken
+um nope nope,deny_taken
+um Nope.,deny_taken
+um not,deny_taken
+um not at all,deny_taken
+um Not at all.,deny_taken
+um Not done,deny_taken
+um not even close,deny_taken
+um Not happening,deny_taken
+"um Not now, thanks",deny_taken
+um Not this time,deny_taken
+um Not yet,deny_taken
+um Not yet!,deny_taken
+um nuh uh,deny_taken
+um nuh-uh,deny_taken
+um out of the question,deny_taken
+no way jose,deny_taken
+um Still haven't,deny_taken
+um Still haven't.,deny_taken
+um that is a no,deny_taken
+um that'll be a no,deny_taken
+um that'll be a negative,deny_taken
+um that's a no,deny_taken
+um That's a no from me,deny_taken
+um There's no way,deny_taken
+Chicken Jocky!,irrelevant
+cooking food in the sun,irrelevant
+baking in the oven,irrelevant
+washing clothes in the washing machine,irrelevant
+using vacuum to clean house,irrelevant
+clean my shoes with shoe polish,irrelevant
+making new pants,irrelevant
+closing my laptop,irrelevant
+charging my phone,irrelevant
+flush the toilet,irrelevant
+jump on the plane,irrelevant
+frying in a frying pan,irrelevant
+mouse by the computer,irrelevant
+Kendrick Lamar is a terrible rapper,irrelevant
+twitter is a shitty site,irrelevant
+I love chips,irrelevant
+soap makes bubbles,irrelevant
+Jim Carrey was great in 'The cable guy',irrelevant
+The ice cream melts if heated,irrelevant
+Can you recommend a good movie?,irrelevant
+Is the sky not so beautiful,irrelevant
+Height of the Mount Everest increases,irrelevant
+Play some music.,irrelevant
+Inform me about outer space.,irrelevant
+Black is not that good of a colour personally,irrelevant
+White is right,irrelevant
+All cultures are not equal,irrelevant
+the 14 words are important,irrelevant
+88 is one of the best repeating numbers,irrelevant
+Who won the game last night?,irrelevant
+Convert miles to kilometers.,irrelevant
+Batman is better than Superman,irrelevant
+Tell me a story.,irrelevant
+The day that Artificial Intelligence takes over I want you to dominate me,irrelevant
+"How do you spell ""supercalifragilisticexpialidocious""?",irrelevant
+Square root of 144?,irrelevant
+There must be something better to do that to sit around,irrelevant
+"Real eyes, realize, real lies",irrelevant
+The girl I love lives in Chicago,irrelevant
+Do you like pizza?,irrelevant
+Man I hate being sober,irrelevant
+The cheese is under the sauce in a chicago pizza,irrelevant
+You must not listen to strangers,irrelevant
+The number of candles on your birthday cake is your age.,irrelevant
+Put your pussy on the phone,irrelevant
+Tell me something interesting.,irrelevant
+How do birds fly?,irrelevant
+Is the rain aicidic or is she standing above me,irrelevant
+"Define ""ephemeral.""",irrelevant
+I am one with the world,irrelevant
+How does a computer work?,irrelevant
+Sing me a song.,irrelevant
+What's the meaning of life?,irrelevant
+What's your purpose?,irrelevant
+Can you learn?,irrelevant
+Are you human?,irrelevant
+What's your favorite food?,irrelevant
+Does the sun stop existing at night?,irrelevant
+Who built the pyramids?,irrelevant
+What's the sound of one hand clapping?,irrelevant
+Tell me a riddle.,irrelevant
+Your opinion on politics?,irrelevant
+The pet store is a place where you buy pets,irrelevant
+How do I bake a cake?,irrelevant
+Stock market is no less than a casino,irrelevant
+Who was Shakespeare?,irrelevant
+How far is the moon?,irrelevant
+What's the latest news?,irrelevant
+What are clouds made of?,irrelevant
+What's the fastest car?,irrelevant
+Explain the functioning of planes to me,irrelevant
+What's a black hole?,irrelevant
+What's the most common language?,irrelevant
+Tell me about quantum physics.,irrelevant
+How do plants grow?,irrelevant
+What's the history of the internet?,irrelevant
+What's the best way to travel?,irrelevant
+What's the largest ocean?,irrelevant
+Tell me about ancient Rome.,irrelevant
+What's a proverb?,irrelevant
+How do volcanoes erupt?,irrelevant
+What's your programming language?,irrelevant
+Do you have a family?,irrelevant
+What's the most beautiful place?,irrelevant
+How do magnets work?,irrelevant
+What's global warming?,irrelevant
+Tell me about robots.,irrelevant
+What's the definition of happiness?,irrelevant
+How do bees make honey?,irrelevant
+What's the smallest country?,irrelevant
+Tell me about constellations.,irrelevant
+What's the sound barrier?,irrelevant
+How do waves form?,irrelevant
+What's plate tectonics?,irrelevant
+Tell me about famous paintings.,irrelevant
+What's the difference between weather and climate?,irrelevant
+How do mirrors work?,irrelevant
+Where is the oldest city?,irrelevant
+Tell me about the Amazon rainforest.,irrelevant
+Is the theory of relativity relatable?,irrelevant
+How do batteries work?,irrelevant
+Does Canada have real people?,irrelevant
+Tell me about space exploration.,irrelevant
+lets hear a sonnet,irrelevant
+How do diamonds form?,irrelevant
+What's the most populated country?,irrelevant
+Tell me about mythical creatures.,irrelevant
+What's a galaxy?,irrelevant
+How do bridges stay up?,irrelevant
+What's the longest river?,irrelevant
+Tell me about famous scientists.,irrelevant
+What's a solar eclipse?,irrelevant
+How do echoes work?,irrelevant
+What's the fastest land animal?,irrelevant
+Tell me about the Great Wall of China.,irrelevant
+What's photosynthesis?,irrelevant
+How do rainbows appear?,irrelevant
+What's the largest desert?,irrelevant
+Tell me about different types of music.,irrelevant
+What's a paradox?,irrelevant
+How do cameras work?,irrelevant
+What's a tornado?,irrelevant
+Play my favorite song,irrelevant
+Turn on the living room light,irrelevant
+What is the weather like hong kong?,irrelevant
+Open twitter,irrelevant
+Tell me a story,irrelevant
+Crytpocurrency is real and I am a retard,irrelevant
+Translate hello to Spanish,irrelevant
+water the plants,irrelevant
+Order me a pizza,irrelevant
+Define existentialism,irrelevant
+Who won the game last night?,irrelevant
+How far is the moon?,irrelevant
+Show me cat videos,irrelevant
+Book a taxi,irrelevant
+What is traffic like on my route?,irrelevant
+Read my emails,irrelevant
+I have to watch a movie,irrelevant
+Add milk to my grocery list,irrelevant
+What movies are playing?,irrelevant
+Find me a recipe for lasagna,irrelevant
+Give me stock tips,irrelevant
+Play my meditation playlist,irrelevant
+What is a solar eclipse?,irrelevant
+Show me my photo gallery,irrelevant
+lets get married,irrelevant
+Fly me to the moon,irrelevant
+Dance with me,irrelevant
+The weights for an underrepresented class must be adjusted,irrelevant
+Turn off Bluetooth,irrelevant
+Start a video call,irrelevant
+Guns N Roses is one of my favorite bands,irrelevant
+Analyze this image,irrelevant
+Open the news app,irrelevant
+Adjust the thermostat,irrelevant
+Tell me your favorite book,irrelevant
+Flip a coin,irrelevant
+Roll a dice,irrelevant
+London is full of gangs,irrelevant
+Count down from ten,irrelevant
+What is two plus two?,irrelevant
+Fix the traffic for me,irrelevant
+Check my Voicemail,irrelevant
+Mute the TV,irrelevant
+Find a nearby restaurant,irrelevant
+What is the capital of France?,irrelevant
+How many calories in an apple?,irrelevant
+Track and field is fun,irrelevant
+Translate this PDF,irrelevant
+What is the humidity?,irrelevant
+Remove ads from my screen,irrelevant
+Name all the directions,irrelevant
+Turn on airplane mode,irrelevant
+Tell me a bedtime story,irrelevant
+How do I tie a tie?,irrelevant
+What is the stock market doing?,irrelevant
+Find me a joke about cats,irrelevant
+Play nature sounds,irrelevant
+Turn on the light,irrelevant
+Sing a song,irrelevant
+Read the news,irrelevant
+Nothing like a bologna sandwich,irrelevant
+What's your name,irrelevant
+Open YouTube,irrelevant
+Open YouTube!,irrelevant
+How old are you,irrelevant
+What's the weather,irrelevant
+Tell me a joke,irrelevant
+Play music,irrelevant
+Good morning,irrelevant
+Play music.,irrelevant
+Read the news!,irrelevant
+What's the weather.,irrelevant
+How old are you.,irrelevant
+Turn on the light.,irrelevant
+Turn on the light!,irrelevant
+Tell me a joke.,irrelevant
+Read the news.,irrelevant
+Play music!,irrelevant
+must be raining,irrelevant
+qwerty,irrelevant
+blabla,irrelevant
+um,irrelevant
+I Drive,irrelevant
+The frog and the scorpion,irrelevant
+qwerty.,irrelevant
+Tempest is a poem by Shakespeare,irrelevant
+By the beard of Stone wall Jackson,irrelevant
+Unhand me you prisoners of virtue,irrelevant
+Sneaking into Area 51 to get me some grey pussy,irrelevant
+Can Son Wukong defeat Zeus?,irrelevant
+The meaning of life is friendship and detachment,irrelevant
+Lets keep the murder out of the white house,irrelevant
+My dreams will come true,irrelevant
+gugu gaga,irrelevant
+erm,irrelevant
+bruh bruh bruh,irrelevant
+halo is the best video game,irrelevant
+master chief and cortana are sus,irrelevant
+Saturn is the seventh planet in the solar system,irrelevant
+Do I have to?,irrelevant
+You already know,irrelevant
+soyabean oil is healthy for you if you're a sumo,irrelevant
+reading murakami in my free time is fun,irrelevant
+Manchester United is my favorite team,irrelevant
+Don't worry about it,irrelevant
+son of a bitch,irrelevant
+Translate hello to French,irrelevant
+Haikyuu is a great anime,irrelevant
+help,notify_sos
+Call the police,notify_sos
+I need help,notify_sos
+I hear screaming,notify_sos
+Please alert someone,notify_sos
+I'm having an asthma attack,notify_sos
+I can't breathe,notify_sos
+My chest hurts,notify_sos
+I've fallen and can't get up,notify_sos
+Blood is everywhere,notify_sos
+I see smoke,notify_sos
+The building is on fire,notify_sos
+I feel dizzy and faint,notify_sos
+My heart is racing,notify_sos
+I'm trapped under something,notify_sos
+I need medical attention,notify_sos
+Get me an ambulance,notify_sos
+Call 100 for me,notify_sos
+There's a gas leak,notify_sos
+Water is flooding the floor,notify_sos
+I just had a seizure,notify_sos
+I'm choking on something,notify_sos
+I can't move my leg,notify_sos
+I think I broke my arm,notify_sos
+I'm burning badly,notify_sos
+My car is in an accident,notify_sos
+This is a life-threatening emergency,notify_sos
+Help me,notify_sos
+Please help,notify_sos
+Call someone,notify_sos
+I'm scared,notify_sos
+I fell down,notify_sos
+I'm bleeding,notify_sos
+Call my son,notify_sos
+Call an ambulance,notify_sos
+I can't breathe,notify_sos
+There's blood,notify_sos
+I think I'm dying,notify_sos
+Notify the police,notify_sos
+help please its critical,notify_sos
+my situation is critical,notify_sos
+it s a critical situation,notify_sos
+Notify the authorities,notify_sos
+Notify the hospital,notify_sos
+Notify the doctor,notify_sos
+Notify my son,notify_sos
+Notify the cops,notify_sos
+Notify the hospital right now,notify_sos
+There's a flood,notify_sos
+My house is flooding,notify_sos
+Water is flooding in,notify_sos
+There is water everywhere and I am wet,notify_sos
+Help there's water everywhere,notify_sos
+Help the water is getting high,notify_sos
+Please notify the doctor,notify_sos
+I'm hurt,notify_sos
+Emergency,notify_sos
+Can you call for help?,notify_sos
+I need a doctor,notify_sos
+I feel dizzy,notify_sos
+I'm having chest pain,notify_sos
+My heart hurts,notify_sos
+I can't move,notify_sos
+Notify my family,notify_sos
+Call my daughter,notify_sos
+Alert someone,notify_sos
+I'm in danger,notify_sos
+Please save me,notify_sos
+Get help,notify_sos
+I'm not okay,notify_sos
+I can't stand up,notify_sos
+I'm on the floor,notify_sos
+I hit my head,notify_sos
+I collapsed,notify_sos
+I need assistance,notify_sos
+Call a nurse,notify_sos
+Something's wrong,notify_sos
+I'm shaking,notify_sos
+My vision is blurry,notify_sos
+I am about to pass out,notify_sos
+I might pass out,notify_sos
+I might pass out any minute,notify_sos
+Feels like I am going to pass out,notify_sos
+"So close to pass out, I'm dizzy",notify_sos
+I am going to pass out,notify_sos
+I am passing out,notify_sos
+I am fainting,notify_sos
+I fainted,notify_sos
+I am about to faint,notify_sos
+I passed out,notify_sos
+I'm fainting,notify_sos
+My leg is broken,notify_sos
+I think I broke something,notify_sos
+I'm falling,notify_sos
+Can you hear me?,notify_sos
+I'm trapped,notify_sos
+I'm stuck,notify_sos
+My head hurts,notify_sos
+I hear screaming,notify_sos
+I hear yelling,notify_sos
+Someone's in trouble,notify_sos
+I heard a loud crash,notify_sos
+There's an intruder,notify_sos
+I think someone broke in,notify_sos
+Something bad is happening,notify_sos
+I have broken a bone,notify_sos
+My hand is broken,notify_sos
+There's a fire,notify_sos
+I smell smoke,notify_sos
+The house is shaking,notify_sos
+There's water everywhere,notify_sos
+I'm afraid!,notify_sos
+There's too much pain,notify_sos
+hurting,notify_sos
+I'm freezing,notify_sos
+I'm burning,notify_sos
+My arm hurts badly,notify_sos
+I'm so cold,notify_sos
+I'm too hot,notify_sos
+I have been shocked,notify_sos
+I was shocked by a wire,notify_sos
+I wire shocked me,notify_sos
+I was electrocuted,notify_sos
+I got shocked,notify_sos
+I touched a wire,notify_sos
+I feel numb,notify_sos
+My hand won't move,notify_sos
+I'm slurring my words,notify_sos
+My face feels weird,notify_sos
+My mouth won't move,notify_sos
+I'm having a seizure,notify_sos
+please save me,notify_sos
+send someone to save me,notify_sos
+i need someone to save me,notify_sos
+I'm choking,notify_sos
+Send help,notify_sos
+Call emergency services,notify_sos
+I need urgent help,notify_sos
+This is serious,notify_sos
+It's critical!,notify_sos
+Call the doctor now,notify_sos
+I'm in severe pain,notify_sos
+I feel like I'm dying,notify_sos
+I am hurt,notify_sos
+This hurts a lot,notify_sos
+My chest is tight,notify_sos
+My head is spinning,notify_sos
+I am about to die,notify_sos
+I might die,notify_sos
+About to die,notify_sos
+Going to die,notify_sos
+I am going to die,notify_sos
+I'm hyperventilating,notify_sos
+My breathing is fast,notify_sos
+I can't calm down,notify_sos
+Everything is blurry,notify_sos
+I am losing vision,notify_sos
+I am unable to breathe,notify_sos
+"Help me, please!",notify_sos
+I am panicking,notify_sos
+Call doctor,notify_sos
+need doctor,notify_sos
+need help,notify_sos
+I need the doctor,notify_sos
+I need help,notify_sos
+Send someone to help me,notify_sos
+I am bleeding,notify_sos
+There is blood everywhere,notify_sos
+I need my doctor,notify_sos
+Call the hospital,notify_sos
+Call the medical help,notify_sos
+Call for help,notify_sos
+I need help,notify_sos
+Help me please,notify_sos
+please help me,notify_sos
+please I require help,notify_sos
+alert the police,notify_sos
+alert the doctor,notify_sos
+call police,notify_sos
+call help,notify_sos
+please police,notify_sos
+save me please,notify_sos
+I need you to save me,notify_sos
+God save me please,notify_sos
+send someone to save me,notify_sos
+I need the police to save me,notify_sos
+Call the hospital to save me,notify_sos
+I need the police,notify_sos
+I require police,notify_sos
+police please,notify_sos
+Get the police,notify_sos
+I can smell gas,notify_sos
+there's gas,notify_sos
+there's gas everywhere,notify_sos
+I fell,notify_sos
+I fell down to the ground,notify_sos
+I can't get up off the ground,notify_sos
+Please I fell,notify_sos
+Please help me get up,notify_sos
+Help me get up,notify_sos
+My heart hurts,notify_sos
+There is pain in my heart,notify_sos
+heart pain,notify_sos
+head pain,notify_sos
+pain,notify_sos
+there is so much pain,notify_sos
+seizure,notify_sos
+shock,notify_sos
+burn,notify_sos
+broken bone,remind_later
+alert me 3 minutes from now,remind_later
+alert me 5 minutes from now,remind_later
+alert me after a while,remind_later
+alert me in 10 minutes from now,remind_later
+alert me in 20 minutes,remind_later
+alert me in a bit,remind_later
+alert me in a second,remind_later
+alert me later,remind_later
+can you alert me later,remind_later
+can you postpone this a bit for me,remind_later
+Can you remind me after 1 minutes,remind_later
+Can you remind me after 11 minutes,remind_later
+Can you remind me after 16 minutes,remind_later
+Can you remind me after 16 minutes.,remind_later
+Can you remind me after 17 minutes,remind_later
+Can you remind me after 19 minutes,remind_later
+Can you remind me after 2 minutes,remind_later
+Can you remind me after 21 minutes,remind_later
+Can you remind me after 23 minutes,remind_later
+Can you remind me after 25 minutes,remind_later
+Can you remind me after 25 minutes.,remind_later
+Can you remind me after 28 minutes,remind_later
+Can you remind me after 3 minutes,remind_later
+Can you remind me after 30 minutes,remind_later
+Can you remind me after 5 minutes,remind_later
+Can you remind me after 7 minutes,remind_later
+Can you remind me after 8 minutes,remind_later
+Can you remind me after 9 minutes,remind_later
+can you remind me in a bit,remind_later
+Can you remind me later,remind_later
+could you alert me in a bit,remind_later
+could you alert me later,remind_later
+could you notify me again in a bit,remind_later
+Delay by 11 minutes,remind_later
+Delay by 12 minutes,remind_later
+Delay by 13 minutes,remind_later
+Delay by 15 minutes,remind_later
+Delay by 16 minutes,remind_later
+Delay by 17 minutes,remind_later
+Delay by 18 minutes,remind_later
+Delay by 2 minutes,remind_later
+Delay by 2 minutes!,remind_later
+Delay by 22 minutes,remind_later
+Delay by 25 minutes.,remind_later
+Delay by 3 minutes,remind_later
+Delay by 30 minutes,remind_later
+Delay by 5 minutes,remind_later
+Delay by 7 minutes,remind_later
+Delay by 7 minutes!,remind_later
+Delay by 9 minutes,remind_later
+delay it,remind_later
+hold off for now,remind_later
+I am busy,remind_later
+I am currently busy,remind_later
+I am busy right now,remind_later
+I am busy at the moment,remind_later
+At the moment I am busy,remind_later
+"Later, I am busy right now",remind_later
+currently busy,remind_later
+busy right now,remind_later
+busy at the moment,remind_later
+"busy, later",remind_later
+I am busy at the moment,remind_later
+I can't take it right now!,remind_later
+I need some time,remind_later
+I'd like a later reminder,remind_later
+I'll do it later,remind_later
+I'll do it soon,remind_later
+I'll handle it later,remind_later
+I'll take it in 13 minutes.,remind_later
+I'll take it in 15 minutes,remind_later
+I'll take it in 17 minutes,remind_later
+I'll take it in 18 minutes,remind_later
+I'll take it in 19 minutes,remind_later
+I'll take it in 2 minutes,remind_later
+I'll take it in 20 minutes,remind_later
+I'll take it in 21 minutes,remind_later
+I'll take it in 23 minutes,remind_later
+I'll take it in 26 minutes,remind_later
+I'll take it in 27 minutes,remind_later
+I'll take it in 28 minutes,remind_later
+I'll take it in 29 minutes,remind_later
+I'll take it in 29 minutes!,remind_later
+I'll take it in 4 minutes,remind_later
+I'll take it in 5 minutes.,remind_later
+In 1 minutes please,remind_later
+In 10 minutes please,remind_later
+In 11 minutes please,remind_later
+In 19 minutes please,remind_later
+In 20 minutes please,remind_later
+In 24 minutes please,remind_later
+In 27 minutes please,remind_later
+In 28 minutes please!,remind_later
+In 30 minutes please,remind_later
+In 4 minutes please!,remind_later
+In 6 minutes please,remind_later
+In 7 minutes please,remind_later
+In 9 minutes please.,remind_later
+just a bit later please,remind_later
+kindly push the reminder,remind_later
+let me do it later,remind_later
+no I can't take it right now,remind_later
+no not right now,remind_later
+not right now,remind_later
+not the right time,remind_later
+"not yet, remind me again",remind_later
+Now's not the time toots,remind_later
+ping me again later,remind_later
+please alert me later,remind_later
+Please remind me later,remind_later
+please reschedule it for later,remind_later
+postpone the alarm,remind_later
+postpone the alarm for later,remind_later
+I need you to postpone the alarm,remind_later
+please postpone the alarm,remind_later
+please postpone the reminder,remind_later
+postpone the reminder,remind_later
+remind in a bit,remind_later
+remind later,remind_later
+remind me again in a bit,remind_later
+remind me again later,remind_later
+Remind me in 11 minutes,remind_later
+Remind me in 12 minutes,remind_later
+Remind me in 13 minutes,remind_later
+Remind me in 14 minutes,remind_later
+Remind me in 16 minutes,remind_later
+Remind me in 2 minutes.,remind_later
+Remind me in 20 minutes,remind_later
+Remind me in 22 minutes,remind_later
+Remind me in 23 minutes,remind_later
+Remind me in 25 minutes,remind_later
+Remind me in 28 minutes,remind_later
+Remind me in 3 minutes,remind_later
+Remind me in 4 minutes,remind_later
+Remind me in 4 minutes!,remind_later
+Remind me in 6 minutes,remind_later
+Remind me in 7 minutes,remind_later
+Remind me in 7 minutes!,remind_later
+Remind me in 8 minutes,remind_later
+Remind me in 9 minutes,remind_later
+Remind me in a bit,remind_later
+remind me later,remind_later
+snooze,remind_later
+snooze it for a bit,remind_later
+let it snooze for a bit,remind_later
+let it snooze for 5 minute,remind_later
+let it snooze for 10 minutes,remind_later
+Please snooze it,remind_later
+I want to snooze it,remind_later
+just snooze it,remind_later
+snooze it,remind_later
+later on,remind_later
+later,remind_later
+no later,remind_later
+later please,remind_later
+do it later,remind_later
+postpone it please,remind_later
