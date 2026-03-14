@@ -1,0 +1,46 @@
+0.557279	1.114558	0_Medlist
+2.391655	3.784853	0_Medicine_list
+4.852971	6.176508	0_medication_list
+7.209796	8.591383	0_list_my_medicine
+9.694331	10.971429	0_what_pills_do_I_have
+11.965515	13.352919	0_list my medication
+14.608972	15.897862	0_which are my medicine
+16.977233	18.528827	0_check which meds I need
+19.251263	20.761810	0_what medicine do I need    
+21.673063	23.200029	0_what medicine do I take
+24.218006	25.728553	0_list todays medication
+26.697273	28.216030	0_what is my evening dose
+28.963094	30.711716	0_which pills are for pain
+32.640947	34.110446	0_which tablets should I take
+35.226937	36.737484	0_what am I supposed to take 
+37.911442	39.660064	0_which meds do I need to take
+40.801184	42.508758	0_can you go over my medicine
+43.748392	45.250729	0_what is the list of medicine
+46.145564	47.828510	0_what is the list of medications
+48.953211	50.767509	0_check which medicines I need
+51.686972	53.476642	0_am I supposed to take a dose
+54.543876	56.292498	0_am I supposed to take a dose
+57.408989	59.059098	0_what meds do I have to take
+60.298731	61.948839	0_what pills should I take now
+62.975026	64.994562	0_go ahead and list medication
+65.914025	67.761161	0_go ahead and list medications
+68.779138	70.338942	0_which pills should I take now
+74.016795	75.831093	0_am I take medicine right now
+76.693090	78.671578	0_Which drug is the first tablet
+79.656717	81.626996	0_what do I take after breakfast
+83.088286	85.009307	0_which medicine do i need to take
+86.117589	88.342362	0_I need you to list my medication
+94.433806	96.519017	0_do I need my medication right now
+97.816117	100.434946	0_do I need to take any medication right now
+105.418109	107.125683	0_i need you to list my medicine
+108.036937	109.974378	0_I need you to list my medicine
+110.885631	112.642463	0_am I taking any tablets right now
+113.890306	115.647138	0_whats the medicine plan for the day
+116.312107	118.208500	0_whats my medication plan for the day
+119.210058	120.958680	0_what pills should I take right now
+121.779629	123.905888	0_is there a medicine I need to take
+124.841771	126.582183	0_check which medicines I need to take
+127.756141	129.660743	0_could you tell me which medicines I need
+130.432436	132.796770	0_can you tell me which medications I took already
+133.469948	135.842492	0_can you tell me which meds I took already
+136.712699	139.717373	0_can you tell me about which medicines I need to take

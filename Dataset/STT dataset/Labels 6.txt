@@ -1,0 +1,64 @@
+0.174150	0.952018	6_help
+1.358367	2.159456	6_help me
+2.763175	3.715193	6_please help
+4.365351	5.712109	6_I need help please
+6.362268	7.720635	6_please help
+8.870023	9.763991	6_seizure
+10.321270	11.296508	6_emergency
+11.807347	12.654875	6_i am stuck
+13.188934	14.001633	6_I need help
+14.407982	15.348390	6_im too hot
+15.673469	16.788027	6_need doctor
+17.264036	18.158005	6_call my son
+18.610794	19.481542	6_call my doctor
+19.899501	20.909569	6_i feel dizzy
+21.350748	22.140227	6_im freezing
+22.651066	23.556644	6_please I fell
+24.055873	24.845351	6_ive fallen
+25.274921	26.134059	6_i fell down
+26.679728	27.713016	6_i smell smoke
+29.245533	30.232381	6_please police
+30.522630	31.358549	6_get the police
+31.857778	32.728526	6_call the police
+33.401905	34.400363	6_please call the police
+34.853152	36.014150	6_call the police please
+36.304399	37.430567	6_my heart hurts
+36.304399	37.430567	
+37.953016	39.055964	6_I have pain in my chest
+39.311383	40.658141	6_i have pain in my chest.
+41.122540	42.190658	6_my chest hurts
+42.550567	43.897324	6_I have pain in my heart
+44.338503	45.162812	6_its critical
+45.824580	46.881088	6_i cant breathe
+47.194558	47.867937	6_help me
+48.448435	49.609433	6_alert the doctor
+49.946122	51.025850	6_alert the nurse
+51.455420	52.918277	6_alert an ambulance
+53.150476	54.230204	6_call an ambulance
+54.787483	55.693061	6_call a nurse
+56.238730	57.121088	6_call the police
+57.434558	58.514286	6_i require the police
+59.675283	60.708571	6_my chest is tight
+61.695420	63.100227	6_i need urgent help
+63.344036	64.516644	6_i need urgent help.
+64.806893	66.037551	6_i cant move my leg
+66.258141	67.175329	6_i have been shocked
+67.988027	69.090975	6_everything is blurry
+69.485714	70.751202	6_please alert someone
+71.505850	72.539138	6_someones in trouble
+73.200907	74.419955	6_please i require help
+75.104943	76.370431	6_i am unable to breathe
+76.927710	78.088707	6_i am about to pass out
+78.936236	80.538413	6_send me someone to save me
+81.014422	82.082540	6_save me please
+82.512109	83.916916	6_my situation is critical
+84.892154	86.238912	6_the situation is critical
+86.935510	88.259048	6_accident
+88.851156	90.290794	6_I think I broke something
+90.836463	91.916190	6_something is broke
+92.682449	93.773787	6_I have broken something
+94.760635	96.095782	6_im having an asthma attack
+96.711111	98.046259	6_i am having an asthma attack.
+98.626757	99.892245	6_i am having an asthma attack!
+100.937143	102.434830	6_nottify the hospital right now
+103.560998	105.383764	6_there is water everywhere I am wet

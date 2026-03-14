@@ -1,0 +1,41 @@
+0.255420	0.940408	5_um
+2.020136	2.751565	5_i drive
+3.343673	4.446621	5_flip a coin
+5.073560	6.048798	5_open twitter
+6.594467	8.417234	5_bruh bruh bruh
+9.171882	10.170340	5_read my emails
+10.762449	11.668027	5_how old are you
+12.411066	13.432744	5_order me a pizza
+14.419592	15.522540	5_making new pants
+16.149478	17.229206	5_closing my laptop
+17.867755	18.889433	5_whats a tornado
+19.876281	20.932789	5_give me stock tips
+21.884807	23.080635	5_show me cat videos
+23.997823	24.787302	5_Whats the weather
+25.565170	26.563628	5_coutndown from ten
+27.678186	28.757914	5_who was shakespeare
+29.744762	30.766440	5_play my fav song
+31.648798	32.600816	5_how do I bake a cake
+33.483175	35.004082	5_whats photosynthesis
+35.758730	36.977778	5_cooking food in the sun
+37.825306	39.090794	5_I have to watch a movie
+39.752562	40.960000	5_how do rainbows appear
+41.668209	43.026576	5_my dreams will come true
+43.850884	45.395011	5_remove ads from my screen
+46.033560	47.879546	5_translate hello to french
+49.156644	50.085442	5_tell me your favourite book
+50.816871	52.628027	5_is the sky not so beautiful
+53.463946	55.576961	5_inform me about outerspace
+56.389660	58.154376	5_the icecream metls if heated
+59.210884	60.546032	5_what is the capital of france
+61.300680	63.204717	5_clean my shoes with some shoe polish
+64.133515	66.525170	5_the girl I love lives in chicago
+67.558458	69.520544	5_the girl I hate lives in chicago
+70.844082	72.411429	5_whats the most common language
+72.840998	74.466395	5_whats the most populated country
+75.197823	77.287619	5_does the sun stop existing at night
+78.193197	80.515193	5_tell me about the great wall of china
+81.258231	83.719546	5_Jim carrey was great in The Cable Guy
+84.752834	87.307029	5_black is not that good of a colour personally
+88.119728	90.685533	5_the cheese is under the sauce in chicago pizza
+91.800091	95.294694	5_the day that the artificial intellegence takes over I want you to dominate me

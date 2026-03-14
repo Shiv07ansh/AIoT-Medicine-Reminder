@@ -1,0 +1,5 @@
+0.626939	2.368435	1_tell me my medicine schedule
+3.308844	5.166440	1_what is my medicine schedule
+6.025578	7.894785	1_what is my medication schedule today
+8.672653	10.727619	1_todays medicine schedule
+11.726077	12.956735	1_tell me todays schedule

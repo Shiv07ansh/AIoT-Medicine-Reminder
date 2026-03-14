@@ -1,0 +1,49 @@
+0.267029	0.835918	7_later
+1.927256	2.530975	7_delay it
+3.738413	4.597551	7_i'll take it later
+5.270930	6.350658	7_busy, later
+6.931156	7.685805	7_not right now
+8.034104	8.974512	7_busy right now
+9.555011	10.472200	7_please snooze it
+10.959819	11.993107	7_hold off for now
+12.701315	13.827483	7_delay by 7 minutes
+14.013243	14.605351	7_delay
+15.232290	15.801179	7_later
+16.579048	17.554286	7_delay for later
+18.158005	19.075193	7_remind me in a bit
+19.818231	21.014059	7_postpone it please
+21.640998	22.651066	7_ping me again later
+23.103855	25.031111	7_i am busy right now plaease later
+25.669660	26.888707	7_delay by 12 minutes
+27.295057	28.432834	7_delay by 11 minutes
+28.908844	30.104671	7_delay by 10 minutes
+30.452971	31.822948	7_delay by 30 minutes
+32.345397	33.668934	7_remind me in 30 minutes
+34.075283	35.247891	7_remind me in 8 minutes
+35.677460	37.024218	7_in 24 minutes please
+37.244807	38.765714	7_in 19 minutes please
+39.090794	40.240181	7_in 11 minutes please
+42.144218	44.141134	7_remind me after a while
+44.303673	45.638821	7_alert me after a while
+46.033560	47.252608	7_remind me in 12 minutes
+47.449977	48.947664	7_i am busy at the moment
+49.690703	51.072290	7_remind me in 4 minutes
+51.327710	52.686077	7_remind me in 23 minutes
+53.254966	55.124172	7_remind me in 14 minutes
+55.623401	56.737959	7_nows not the time
+57.515828	58.723265	7_later please
+59.268934	60.604082	7_please postpone the alarm
+61.254240	62.589388	7_please postpone the alarm!
+63.111837	64.493424	7_I'll take it in 7 minutes
+64.899773	66.107211	7_i'll take it in 10 minutes
+66.850249	68.243447	7_i'll take it in 20 minutes
+68.940045	70.077823	7_can you remind me in a bit
+70.553832	72.144399	7_alert me 5 minutes from now
+72.759728	74.129705	7_no I can't take it right now
+74.779864	76.405261	7_alert me in 10 minutes from now
+76.939320	79.017506	7_can you remind me after 9 minutes
+79.888254	81.792290	7_please can you remind me after 7 minutes
+82.663039	84.149116	7_please can you postpone this a bit
+85.310113	87.121270	7_can you postpone this a bit for me
+87.655329	89.443265	7_can you remind me after 21 minutes
+90.128254	92.055510	7_Can you remind me after 25 minutes

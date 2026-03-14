@@ -1,0 +1,50 @@
+0.371519	1.091338	2_date
+2.124626	2.832834	2_tomorrow
+3.471383	4.585941	2_time please
+5.259320	6.141678	2_time please!
+6.791837	7.720635	2_what day is it
+8.324354	9.195102	2_what time is it
+9.856871	10.901769	2_what day is it?
+11.551927	12.469116	2_whats the hour
+13.107664	14.082902	2_give me the date
+14.698231	15.580590	2_give me the time
+16.149478	17.124717	2_what is the time
+17.577506	18.750113	2_what is the time right now
+19.249342	20.538050	2_what is the date today
+20.944399	22.395646	2_what is the day today
+23.324444	24.415782	2_current time please
+24.764082	26.006349	2_is it the weekend
+26.598458	27.701406	2_tell me current time
+28.049705	29.222313	2_current time please!
+29.895692	31.358549	2_current time please
+31.799728	32.763356	2_do you know the time
+33.668934	34.922812	2_can you check the time
+35.433651	36.954558	2_check what time it is
+37.477007	39.253333	2_twenty second april today
+40.216961	41.610159	2_what does the clock say
+42.109388	43.560635	2_can you tell me the time
+44.106304	45.673651	2_what time is it in denver
+46.230930	48.088526	2_hello what time is it right now
+48.669025	50.689161	2_please give me todays date
+51.362540	52.964717	2_whats the time in new york
+54.021224	55.472472	2_whats the time in this city
+56.343220	58.676825	2_what is the month day and year
+59.628844	60.766621	2_give me the time
+61.776689	63.727166	2_can you tell me the time please
+64.168345	65.805351	2_please can you tell me the time
+67.012789	67.999637	2_what time is it
+69.404444	71.366531	2_whats the time in this time zone
+72.330159	74.675374	2_what day is it the day before tomorrow
+75.766712	77.531429	2_what is the current time right now
+78.169977	79.238095	2_what is it right now
+80.503583	82.396009	2_whats the time for the neighboring city
+82.825578	84.834104	2_what is the day on the twenty third of march
+85.774512	87.225760	2_what will be the time now
+88.224218	90.348844	2_what is the time for the eastern time zone
+91.800091	94.725805	2_could you tell me what time it is in singapore
+95.526893	96.862041	2_what day of the week is it
+97.860499	99.625215	2_What is the hour right now
+102.725000	104.083447	2_update me on the time
+104.919365	106.695692	2_update me on the time
+118.839728	120.290975	2_what is the week today
+121.916372	123.286349	2_what is todays date

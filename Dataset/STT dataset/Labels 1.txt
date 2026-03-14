@@ -1,0 +1,40 @@
+1.102948	2.438095	1_show alarm
+4.911020	6.362268	1_medication schedule
+7.209796	8.591383	1_please check alarms
+10.820499	12.399456	1_next medicine time
+13.049615	14.570522	1_do I have any alarms
+15.255510	16.613878	1_are there any alarms
+17.391746	18.959093	1_confirm the alarm time
+19.957551	21.420408	1_what time are my alarms
+22.558186	24.230023	1_are there any alarms set
+24.880181	26.853878	1_did I set my house alarm
+27.492426	28.978503	1_what alarms do I have set
+29.826032	31.172789	1_have I got any alarms set
+32.043537	33.645714	1_let me know the alarm time
+35.038912	36.408889	1_how many alarms are listed
+38.858594	40.669751	1_what alarm time had you set
+42.167438	44.675193	1_is there an alarm at four am
+52.442268	53.951565	1_What alarms are set right now
+54.474014	56.134240	1_are there any alarms for today
+56.854059	59.048345	1_list all of my upcoming alarms
+59.942313	61.381950	1_show me the alarms that are set
+62.101769	64.087075	1_what alarms have been set for me
+65.596372	67.570068	1_is my work alarm set for tomorrow
+68.034467	69.462494	1_which alarms are set
+70.588662	72.504308	1_are there any alarms set right now
+72.875828	75.348753	1_do I currently have any alarms set
+76.103401	78.564717	1_please tell me about my upcoming alarms today
+83.069388	85.263673	1_what time will my alarms go off today
+85.971882	87.643719	1_I would like to know the alarms  you've set
+88.282268	90.197914	1_can you tell me what alarms I have set
+90.929342	92.879819	1_whats the alarm situation for today
+93.355828	95.190204	1_whats the alarm situation for tomorrow
+97.593469	100.043175	1_check if any alarm is there after five am
+100.821043	103.560998	1_can you tell me about the alarm called bed
+104.478186	107.171701	1_i need to set an alarm how many do I have set
+108.576508	111.328073	1_do I have alarms set before 6 in the morning
+119.211247	121.916372	1_whats the description for alarm at eleven am
+123.681088	127.477551	1_would you please check to see if I have set my alarms for tomorrow morning
+129.358367	131.192744	1_can you check the alrams set
+132.876190	134.397098	1_what alarms are set today
+138.553469	139.609977	1_alarms
