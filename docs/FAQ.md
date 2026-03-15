@@ -21,7 +21,7 @@ Physical sensor cross-validation ensures the box was opened
 and accessed, not just verbally acknowledged. A single-signal 
 system can be fooled by accident or confusion. The three-factor 
 approach is the core reliability argument of the design. 
-Full details in [docs/interaction_flow.md](docs/interaction_flow.md) , [docs/state_machine.md](docs/state_machine.md)
+Full details in [interaction_flow.md](interaction_flow.md) , [state_machine.md](state_machine.md)
 
 **Why does it work offline?**  
 The target users such as elderly individuals in rural or low-income 
@@ -34,7 +34,7 @@ WiFi is used only for optional caregiver email notifications.
 The alarm escalates, retried up to 3 times at 5-minute 
 intervals. After 3 unacknowledged reminders, a missed-dose 
 notification is sent to the caregiver. 
-[docs/interaction_flow.md](docs/interaction_flow.md) — Alarm Escalation
+[interaction_flow.md](interaction_flow.md) — Alarm Escalation
 
 **What if there's no WiFi?**  
 Email notifications are disabled. All other functionality 
@@ -47,7 +47,7 @@ Secondary: SMS via GSM module (SIM800L + TinyGSM) —
 works without WiFi  
 Tertiary: local audible alarm (buzzer) — works without 
 any connectivity  
-Full details in [docs/interaction_flow.md](../docs/interaction_flow.md) — Emergency SOS flow
+Full details in [interaction_flow.md](interaction_flow.md) — Emergency SOS flow
 
 ---
 
@@ -68,35 +68,35 @@ and are computationally efficient. SLU is a semantic
 classification task, text representation normalises away 
 speaker variation and noise that doesn't affect meaning. 
 Different problems, different representations.  
-Full details in: [models/README.md](models/README.md)— Note on Architecture Divergence
+Full details in: [models/README.md](../models/README.md)— Note on Architecture Divergence
 
 **Why MFE instead of MFCC for KWS?**  
 MFE avoids the DCT stage, making it computationally lighter 
 with no meaningful accuracy difference for a binary detection 
 task. More efficient for real-time inference on a 
 resource-constrained MCU.
-Full details in: [models/kws/training/README.md](models/kws/training/README.md) — Feature Extraction
+Full details in: [models/kws/training/README.md](../models/kws/training/README.md) — Feature Extraction
 
 **Why int8 quantization?**  
 float32 models exceed SRAM budget. uint8 showed more accuracy 
 degradation than int8 on this dataset. int8 post-training 
 quantization reduced model size by ~75% with less than 2% 
 accuracy drop.  
-Full details in: [models/kws/training/README.md](models/kws/training/README.md) — Quantization Decision
+Full details in: [models/kws/training/README.md](../models/kws/training/README.md) — Quantization Decision
 
 **How accurate are the models?**  
 KWS: 97.2% | SLU: 95% — both on controlled single-speaker 
 test set. Performance on unseen speakers degrades and has 
 not been formally benchmarked. This is the core limitation.  
-Full details in: [models/kws/model_card.md](models/kws/model_card.md), [models/slu/model_card.md](models/slu/model_card.md) , 
-[LIMITATIONS_AND_FUTURE_WORK.md](LIMITATIONS_AND_FUTURE_WORK.md)
+Full details in: [models/kws/model_card.md](../models/kws/model_card.md), [models/slu/model_card.md](../models/slu/model_card.md) , 
+[LIMITATIONS_AND_FUTURE_WORK.md](../LIMITATIONS_AND_FUTURE_WORK.md)
 
 **Why does accuracy degrade on other people's voices?**  
 Both models were trained primarily on a single speaker. 
 The dataset lacked linguistic and acoustic diversity. 
 Generalisation to unseen speakers, accents, and languages 
 is the primary open research problem this work surfaces.  
-Full details in: [LIMITATIONS_AND_FUTURE_WORK.md](LIMITATIONS_AND_FUTURE_WORK.md)
+Full details in: [LIMITATIONS_AND_FUTURE_WORK.md](../LIMITATIONS_AND_FUTURE_WORK.md)
 
 ---
 
@@ -107,26 +107,26 @@ Vector extensions accelerate fixed-point convolution for
 quantized inference. External PSRAM support allows tensor 
 arena allocation without exhausting internal SRAM. 
 Deep-sleep sub-5µA enables battery operation.  
-Full details in: [docs/hardware_setup.md](docs/hardware_setup.md) — MCU Selection Analysis
+Full details in: [hardware_setup.md](hardware_setup.md) — MCU Selection Analysis
 
 **Why does the HC-SR04 need a voltage divider?**  
 HC-SR04 echo pin outputs 5V. ESP32-S3 GPIOs are 3.3V maximum. 
 Direct connection damages the GPIO. The 10kΩ + 20kΩ divider 
 brings echo output to 3.33V.  
-Full details in: [docs/hardware_setup.md](docs/hardware_setup.md) — Voltage Level Shifting
+Full details in: [hardware_setup.md](hardware_setup.md) — Voltage Level Shifting
 
 **How was the ultrasonic threshold calibrated?**  
 d_threshold = d_empty - 10mm  
 Baseline d_empty measured when box is empty. Any distance 
 reading 10mm below that baseline indicates hand insertion. 
 Median filter over 5 readings prevents false positives.  
-Full details in: [docs/hardware_setup.md](docs/hardware_setup.md) — Sensor Placement and Tuning
+Full details in: [hardware_setup.md](hardware_setup.md) — Sensor Placement and Tuning
 
 **Why is the hall effect sensor output sometimes unreliable?**  
 Sensitive to magnet alignment — must be within 5mm tolerance 
 of A3144 sensor face. Solved by epoxying components in place 
 after positioning with a hardware jig.  
-[docs/hardware_setup.md](docs/hardware_setup.md) — Sensor Alignment Sensitivity
+[hardware_setup.md](hardware_setup.md) — Sensor Alignment Sensitivity
 
 **How much does the hardware cost?**  
 Approximately $12.40 total BOM.  
@@ -140,19 +140,19 @@ Full details in: [BOM.md](BOM.md) — Bill of Materials
 A four-state finite state machine: IDLE → AWAIT_SLU → 
 AWAIT_LID → AWAIT_HAND → CONFIRMED. Each state has a 5s 
 timeout that resets to IDLE.  
-Full details: [docs/state_machine.md](docs/state_machine.md)
+Full details: [state_machine.md](state_machine.md)
 
 **Why is the tensor arena in PSRAM and not internal SRAM?**  
 Both KWS and SLU arenas together with firmware exceed internal 
 SRAM. PSRAM allocation via EXT_RAM_BSS_ATTR frees internal 
 SRAM for the TFLM runtime stack.  
-Full details in: [firmware/README.md](firmware/README.md) — Tensor Arena
+Full details in: [firmware/README.md](../firmware/README.md) — Tensor Arena
 
 **How were the op resolver operators determined?**  
 By reading the error codes thrown by micro_mutable_op_resolver.h 
 at runtime — each missing op throws a specific error identifying 
 exactly which op needs to be registered.  
-Full details in: [firmware/README.md](firmware/README.md) — Op Resolver
+Full details in: [firmware/README.md](../firmware/README.md) — Op Resolver
 
 ---
 
@@ -162,13 +162,13 @@ Full details in: [firmware/README.md](firmware/README.md) — Op Resolver
 Accepted, ICDECT-2025 Conference Springer LNNS. 
 Zenodo preprint: https://zenodo.org/records/19034554  
 DOI: 10.5281/zenodo.19034554  
-Full details in: [docs/paper.md](docs/paper.md)
+Full details in: [paper_preprint.md](paper_preprint.md)
 
 **What are the open research questions?**  
 Primarily: generalising KWS/SLU to unseen speakers within 
 MCU memory constraints, and neural architecture search for 
 maximising accuracy within fixed SRAM budgets.  
-Full details in: [LIMITATIONS_AND_FUTURE_WORK.md](LIMITATIONS_AND_FUTURE_WORK.md)
+Full details in: [LIMITATIONS_AND_FUTURE_WORK.md](../LIMITATIONS_AND_FUTURE_WORK.md)
 
 **What is this repo relative to the paper?**  
 The paper documents the research contribution. This repo 
