@@ -1,4 +1,4 @@
-# AIoT Medicine Reminder — Offline Voice-Interactive Medicine Adherence System
+# AIoT Health: Medicine Reminder For The Elderly — Offline Voice-Interactive Medicine Adherence System
 
 An ESP32-S3 based TinyML system designed to improve medication adherence 
 in elderly patients, including those with dementia or Alzheimer's. The 
@@ -138,12 +138,14 @@ Core open problems:
 
 ## Paper
 
-**[Full citation — author, title, Springer LNNS, year]**  
-Accepted, Springer LNNS  
-[arXiv link when live]
+**AIoT Health: Medicine Reminder For The Elderly**  
+Shrivansh Pratap Singh, Manoj Kumar Gupta  
+Accepted: ICDECT-2025, Springer Lecture Notes in Networks and Systems (LNNS)  
+Preprint: [Zenodo — 10.5281/zenodo.19034554](https://zenodo.org/records/19034554)  
+arXiv: pending endorsement
 
 This repository contains the complete implementation including hardware 
-decision rationale, training decisions log, engineering challenges and 
+decision rationale, training decisions, engineering challenges and 
 workarounds, and failure modes that could not be included in the paper 
 due to space constraints.
 
