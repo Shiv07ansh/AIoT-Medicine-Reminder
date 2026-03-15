@@ -11,7 +11,7 @@ A voice-interactive medicine reminder that runs entirely offline
 on a $12 microcontroller. It alarms, listens for the user's 
 verbal response, classifies intent, and physically verifies 
 that the medicine box was opened and accessed before confirming 
-adherence. Full walkthrough: [docs/interaction_flow.md](docs/interaction_flow.md)
+adherence. Full walkthrough: [interaction_flow.md](interaction_flow.md)
 
 **Why does it need three forms of confirmation: voice, lid, 
 and hand?**  
