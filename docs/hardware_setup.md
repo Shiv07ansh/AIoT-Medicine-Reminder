@@ -71,7 +71,7 @@ channel at ~20kHz.
 | VCC | 5V rail | |
 | GND | GND | |
 | TRIG | GPIO 5 | Digital out |
-| ECHO | GPIO 18 | Via voltage divider: 2kΩ+1kΩ, interrupt-capable |
+| ECHO | GPIO 18 | Via voltage divider: 1kΩ+2kΩ, interrupt-capable |
 
 ### SSD1306 OLED (I²C)
 | Display Pin | ESP32-S3 GPIO | Notes |
@@ -99,9 +99,9 @@ channel at ~20kHz.
 **Problem:** HC-SR04 echo pin outputs 5V. ESP32-S3 GPIO 
 maximum is 3.3V. Direct connection damages GPIO.
 
-**Solution:** use 10kΩ and 20kΩ for proper 5→3.3V:
-- 10kΩ between echo and GPIO
-- 20kΩ between GPIO and GND  
+**Solution:** use 1kΩ and 2kΩ for proper 5→3.3V:
+- 1kΩ between echo and GPIO
+- 2kΩ between GPIO and GND  
 - Output: 5V × (20kΩ/30kΩ) = 3.33V 
 
 ### 2. Limited GPIOs
@@ -194,6 +194,6 @@ The score is deliberately not a measure of raw compute performance. High-capabil
 Three distinct failure modes emerge from the data. Arduino-class boards (Nano, Uno, Pico W) score well on power and cost but cannot run local inference — immediately disqualified. High-compute boards (Jetson Nano, Coral, Raspberry Pi 4) support inference but draw 400-650mA and cost $55-$129 — unsuitable for battery operation and incompatible with the cost constraint. Mid-range capable devices (STM32H7) support inference but cost $20 and lack integrated WiFi, adding integration overhead. The ESP32-S3 Mini scores 0.96 — highest among all inference-capable candidates — because it is the only device without a critical weakness in any relevant dimension. A secondary feature-level comparison of the top candidates confirmed this:
 
 
-![Normalized Feature Scores by Device|697](heatmap22.png)
+![Normalized Feature Scores by Device](heatmap22.png)
 
 The ESP32-S3 Mini is the only device that scores consistently across all four dimensions simultaneously. Every alternative involves a meaningful tradeoff that conflicts with at least one hard requirement of this deployment.
