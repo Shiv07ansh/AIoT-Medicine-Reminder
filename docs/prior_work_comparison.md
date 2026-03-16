@@ -21,4 +21,4 @@ This system is the first to combine:
 - Sub-$15 BOM
 
 For the full systematic literature review comparing 14 prior systems
-across methodology, results, and limitations check: [docs/paper_preprint.md](docs/paper_preprint.md)
+across methodology, results, and limitations check: [/paper_preprint.md](/paper_preprint.md)
