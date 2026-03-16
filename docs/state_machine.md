@@ -9,27 +9,27 @@ mapping that drives system outputs.
 
 ## States
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   IDLE ──── KWS detects trigger ──→ AWAIT_SLU      │
-│     ↑                                    │          │
-│     │                              SLU classifies  │
-│     │                                    │          │
-│     │                              ┌─────┴──────┐  │
-│     │                    confirm_taken    all other intents
-│     │                              │          │    │
-│     │                         AWAIT_LID   handle   │
-│     │                              │    directly   │
-│     │              lid_open=true   │               │
-│     │                         AWAIT_HAND           │
-│     │                              │               │
-│     │         hand_present=true    │               │
-│     │                         CONFIRMED            │
-│     │                              │               │
-│     └──────── log + notify ────────┘               │
-│                                                     │
-│  All states have 5s timeout → reset to IDLE        │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   IDLE ──── KWS detects trigger ──→ AWAIT_SLU               │
+│     ↑                                    │                  │
+│     │                              SLU classifies           │
+│     │                                    │                  │ 
+│     │                              ┌─────┴──────┐           │
+│     │                    confirm_taken    all other intents |
+│     │                              │          │             │
+│     │                         AWAIT_LID   handle            │
+│     │                              │    directly            │
+│     │              lid_open=true   │                        │
+│     │                         AWAIT_HAND                    │
+│     │                              │                        │
+│     │         hand_present=true    │                        │
+│     │                         CONFIRMED                     │
+│     │                              │                        │
+│     └──────── log + notify ────────┘                        │
+│                                                             │
+│  All states have 5s timeout → reset to IDLE                 │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
