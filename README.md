@@ -144,7 +144,7 @@ Accepted: ICDECT-2025, Springer Lecture Notes in Networks and Systems (LNNS)
 Preprint: [Zenodo — 10.5281/zenodo.19034554](https://zenodo.org/records/19034554)  
 arXiv: pending endorsement
 
-Check: ![docs/paper_preprint.md](docs/paper_preprint.md) 
+Check: [docs/paper_preprint.md](docs/paper_preprint.md) 
 
 This repository contains the complete implementation including hardware 
 decision rationale, training decisions, engineering challenges and 
