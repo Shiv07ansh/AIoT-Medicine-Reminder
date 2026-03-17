@@ -124,7 +124,7 @@ error codes at runtime, not from Netron):
 
 Allocated in PSRAM to avoid internal SRAM exhaustion:
 ```cpp
-EXT_RAM_BSS_ATTR static uint8_t kws_tensor_arena[KWS_ARENA_SIZE];
+EXT_RAM_BSS_ATTR static int8_t kws_tensor_arena[KWS_ARENA_SIZE];
 ```
 
 Size determined empirically:
