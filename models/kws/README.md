@@ -29,7 +29,7 @@ Custom recorded trigger phrases at 16kHz in .wav format.
 - Single speaker throughout
 
 Augmentation pipeline shared with SLU:
-[data_augmentation.py](../datasets/data_augmentation.py.md)
+[data_augmentation.py](../dataset/data_augmentation.py.md)
 
 Techniques: additive noise (5dB/10dB SNR), time stretch 
 (0.9x/1.1x), pitch shift (+-1 semitone). 6x total expansion.
