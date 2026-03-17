@@ -170,4 +170,4 @@ With const it stays in Flash. Always use const.
 | Quantization accuracy drop | <2% |
 
 Performance on unseen speakers degrades — not formally benchmarked.
-See [../../../LIMITATIONS_AND_FUTURE_WORK.md](../../../LIMITATIONS_AND_FUTURE_WORK.md)
+See [../../LIMITATIONS_AND_FUTURE_WORK.md](../../LIMITATIONS_AND_FUTURE_WORK.md)
