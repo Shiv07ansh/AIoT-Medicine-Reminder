@@ -35,7 +35,7 @@ The full pipeline:
 8. All inference runs locally on ESP32-S3 — no internet required 
    except for optional email notification
 
-Full state machine documentation: [docs/state_machine.md](docs/state_machine.md)
+Full state machine documentation: [State Machine](docs/state_machine.md)
 
 ---
 
@@ -117,7 +117,7 @@ AlzhAImers/
 ## Limitations
 
 This system has real limitations documented honestly.  
-See [LIMITATIONS_AND_FUTURE_WORK.md](LIMITATIONS_AND_FUTURE_WORK.md)
+See [LIMITATIONS_AND_FUTURE_WORK](LIMITATIONS_AND_FUTURE_WORK.md)
 
 Core open problems:
 - KWS and SLU trained on single speaker — degrades on unseen voices 
@@ -147,4 +147,4 @@ due to space constraints.
 
 ## Setup
 
-To replicate and setup check: [firmware/SETUP.md](firmware/SETUP.md)
+To replicate and setup check: [SETUP](firmware/SETUP.md)
