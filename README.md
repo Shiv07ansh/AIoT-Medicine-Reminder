@@ -147,4 +147,4 @@ due to space constraints.
 
 ## Setup
 
-To replicate → firmware/SETUP.md
+To replicate and setup check: [firmware/SETUP.md](firmware/SETUP.md)
