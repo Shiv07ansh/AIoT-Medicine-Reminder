@@ -39,7 +39,7 @@ confirmation window in the FSM.
 - Single speaker, English only
 
 Augmentation:
-[data_augmentation.py](data_augmentation.py.md)
+[Data Augmentation Script](../dataset/data_augmentation.py)
 
 ---
 
@@ -172,4 +172,4 @@ Final size: approximately 80-100KB.
 
 Performance on unseen speakers and non-English inputs 
 not formally benchmarked.
-See [../../LIMITATIONS_AND_FUTURE_WORK.md](../../LIMITATIONS_AND_FUTURE_WORK.md)
+See [LIMITATIONS_AND_FUTURE_WORK.md](../../LIMITATIONS_AND_FUTURE_WORK.md)
